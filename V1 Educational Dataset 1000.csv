@@ -1,0 +1,1001 @@
+Resource_ID,Title,Description,Subject,Difficulty_Level,Resource_Type,Keywords,Author
+R0001,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Article,"environment, climate change, sustainability",Ms. T. Lewis
+R0002,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Quiz,"history, civilizations, warfare",Dr. E. Davis
+R0003,Database Design and Management,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Quiz,"machine learning, AI, neural networks",Dr. K. Martinez
+R0004,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Others,Advanced,Quiz,"ethics, philosophy, morality",Dr. A. Smith
+R0005,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Science,Advanced,Quiz,"machine learning, AI, neural networks",Dr. A. Smith
+R0006,World History Overview,Detailed study material with real-world examples.,Humanities,Advanced,Video,"ethics, philosophy, morality",Dr. E. Davis
+R0007,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Article,"history, civilizations, warfare",Prof. B. Clark
+R0008,Basics of Human Anatomy,Detailed study material with real-world examples.,Humanities,Advanced,Article,"ethics, philosophy, morality",Dr. A. Smith
+R0009,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Science,Beginner,Video,"ethics, philosophy, morality",Dr. K. Martinez
+R0010,Basics of Human Anatomy,Detailed study material with real-world examples.,Science,Beginner,Quiz,"biology, anatomy, cells",Dr. E. Davis
+R0011,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Article,"biology, anatomy, cells",Ms. R. Lee
+R0012,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Science,Advanced,Article,"physics, quantum mechanics, particles",Ms. R. Lee
+R0013,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Science,Advanced,Article,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0014,World History Overview,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Article,"environment, climate change, sustainability",Ms. T. Lewis
+R0015,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Science,Beginner,Article,"machine learning, AI, neural networks",Dr. P. Adams
+R0016,Electrical Engineering Principles,Detailed study material with real-world examples.,Science,Intermediate,Article,"physics, quantum mechanics, particles",Prof. B. Clark
+R0017,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Science,Beginner,Quiz,"environment, climate change, sustainability",Dr. K. Martinez
+R0018,Database Design and Management,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Quiz,"biology, anatomy, cells",Prof. L. Johnson
+R0019,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Science,Intermediate,Quiz,"physics, quantum mechanics, particles",Dr. A. Smith
+R0020,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Video,"environment, climate change, sustainability",Dr. A. Smith
+R0021,World History Overview,A beginner-friendly overview with interactive sessions.,Others,Advanced,Article,"machine learning, AI, neural networks",Dr. K. Martinez
+R0022,Database Design and Management,An intermediate course focusing on core concepts.,Technology,Beginner,Video,"history, civilizations, warfare",Dr. E. Davis
+R0023,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Others,Beginner,Article,"robotics, automation, sensors",Prof. B. Clark
+R0024,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Technology,Beginner,Video,"ethics, philosophy, morality",Ms. T. Lewis
+R0025,World History Overview,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Article,"ethics, philosophy, morality",Dr. J. Wilson
+R0026,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Quiz,"machine learning, AI, neural networks",Dr. K. Martinez
+R0027,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Science,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. E. Davis
+R0028,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Technology,Advanced,Quiz,"robotics, automation, sensors",Dr. K. Martinez
+R0029,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Quiz,"poetry, creative writing, storytelling",Dr. M. Carter
+R0030,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Video,"biology, anatomy, cells",Prof. B. Clark
+R0031,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Article,"ethics, philosophy, morality",Dr. J. Wilson
+R0032,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Science,Intermediate,Article,"robotics, automation, sensors",Dr. A. Smith
+R0033,Database Design and Management,Detailed study material with real-world examples.,Others,Beginner,Quiz,"machine learning, AI, neural networks",Dr. J. Wilson
+R0034,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Article,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0035,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Science,Advanced,Video,"history, civilizations, warfare",Ms. T. Lewis
+R0036,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Quiz,"history, civilizations, warfare",Dr. P. Adams
+R0037,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Humanities,Advanced,Article,"ethics, philosophy, morality",Dr. P. Adams
+R0038,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Humanities,Advanced,Article,"robotics, automation, sensors",Dr. A. Smith
+R0039,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Others,Advanced,Quiz,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0040,Basics of Human Anatomy,Detailed study material with real-world examples.,Technology,Beginner,Article,"electric circuits, voltage, current",Prof. L. Johnson
+R0041,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Article,"machine learning, AI, neural networks",Dr. E. Davis
+R0042,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Quiz,"databases, SQL, data storage",Prof. L. Johnson
+R0043,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Video,"history, civilizations, warfare",Prof. B. Clark
+R0044,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Quiz,"history, civilizations, warfare",Ms. R. Lee
+R0045,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Science,Advanced,Video,"physics, quantum mechanics, particles",Dr. P. Adams
+R0046,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Technology,Intermediate,Article,"environment, climate change, sustainability",Dr. P. Adams
+R0047,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Others,Beginner,Video,"biology, anatomy, cells",Prof. L. Johnson
+R0048,World History Overview,Well-structured learning with quizzes and assignments.,Technology,Advanced,Video,"poetry, creative writing, storytelling",Ms. R. Lee
+R0049,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Video,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0050,World History Overview,A beginner-friendly overview with interactive sessions.,Humanities,Intermediate,Video,"biology, anatomy, cells",Dr. P. Adams
+R0051,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Article,"biology, anatomy, cells",Dr. K. Martinez
+R0052,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Article,"history, civilizations, warfare",Dr. J. Wilson
+R0053,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Humanities,Intermediate,Article,"electric circuits, voltage, current",Dr. K. Martinez
+R0054,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Article,"history, civilizations, warfare",Prof. B. Clark
+R0055,Database Design and Management,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Article,"ethics, philosophy, morality",Dr. A. Smith
+R0056,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Technology,Advanced,Quiz,"biology, anatomy, cells",Dr. K. Martinez
+R0057,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Video,"electric circuits, voltage, current",Dr. M. Carter
+R0058,The Fundamentals of Robotics,Detailed study material with real-world examples.,Science,Beginner,Quiz,"databases, SQL, data storage",Prof. B. Clark
+R0059,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Article,"machine learning, AI, neural networks",Prof. L. Johnson
+R0060,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Technology,Intermediate,Article,"physics, quantum mechanics, particles",Prof. B. Clark
+R0061,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Others,Intermediate,Video,"ethics, philosophy, morality",Dr. M. Carter
+R0062,Creative Writing Workshop,An intermediate course focusing on core concepts.,Humanities,Intermediate,Quiz,"robotics, automation, sensors",Dr. A. Smith
+R0063,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Science,Advanced,Quiz,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0064,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Humanities,Intermediate,Quiz,"environment, climate change, sustainability",Dr. M. Carter
+R0065,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Quiz,"electric circuits, voltage, current",Dr. J. Wilson
+R0066,Electrical Engineering Principles,Detailed study material with real-world examples.,Humanities,Intermediate,Video,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0067,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Others,Intermediate,Video,"ethics, philosophy, morality",Ms. T. Lewis
+R0068,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Article,"databases, SQL, data storage",Dr. M. Carter
+R0069,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Humanities,Beginner,Article,"poetry, creative writing, storytelling",Dr. A. Smith
+R0070,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Science,Advanced,Article,"robotics, automation, sensors",Ms. T. Lewis
+R0071,Introduction to Machine Learning,An intermediate course focusing on core concepts.,Humanities,Intermediate,Video,"robotics, automation, sensors",Prof. B. Clark
+R0072,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Science,Advanced,Video,"robotics, automation, sensors",Prof. L. Johnson
+R0073,Electrical Engineering Principles,Detailed study material with real-world examples.,Others,Intermediate,Article,"machine learning, AI, neural networks",Dr. J. Wilson
+R0074,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Quiz,"machine learning, AI, neural networks",Dr. A. Smith
+R0075,Basics of Human Anatomy,Detailed study material with real-world examples.,Humanities,Advanced,Article,"history, civilizations, warfare",Dr. A. Smith
+R0076,World History Overview,Detailed study material with real-world examples.,Others,Advanced,Quiz,"ethics, philosophy, morality",Dr. M. Carter
+R0077,Basics of Human Anatomy,Detailed study material with real-world examples.,Science,Intermediate,Video,"physics, quantum mechanics, particles",Dr. M. Carter
+R0078,The Fundamentals of Robotics,Detailed study material with real-world examples.,Science,Intermediate,Video,"electric circuits, voltage, current",Dr. E. Davis
+R0079,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Others,Intermediate,Quiz,"physics, quantum mechanics, particles",Ms. R. Lee
+R0080,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Others,Beginner,Quiz,"environment, climate change, sustainability",Prof. B. Clark
+R0081,Database Design and Management,Detailed study material with real-world examples.,Others,Intermediate,Video,"biology, anatomy, cells",Dr. P. Adams
+R0082,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Video,"ethics, philosophy, morality",Dr. M. Carter
+R0083,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Article,"ethics, philosophy, morality",Dr. E. Davis
+R0084,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Others,Advanced,Video,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0085,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Video,"ethics, philosophy, morality",Prof. L. Johnson
+R0086,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Science,Advanced,Article,"electric circuits, voltage, current",Ms. R. Lee
+R0087,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Science,Advanced,Article,"biology, anatomy, cells",Dr. A. Smith
+R0088,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Video,"electric circuits, voltage, current",Dr. P. Adams
+R0089,World History Overview,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Video,"electric circuits, voltage, current",Dr. K. Martinez
+R0090,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Others,Intermediate,Quiz,"robotics, automation, sensors",Dr. K. Martinez
+R0091,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Humanities,Advanced,Quiz,"history, civilizations, warfare",Prof. B. Clark
+R0092,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Technology,Beginner,Video,"history, civilizations, warfare",Dr. M. Carter
+R0093,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Article,"biology, anatomy, cells",Prof. L. Johnson
+R0094,Database Design and Management,Detailed study material with real-world examples.,Humanities,Intermediate,Article,"history, civilizations, warfare",Ms. R. Lee
+R0095,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Others,Beginner,Article,"history, civilizations, warfare",Dr. A. Smith
+R0096,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Science,Intermediate,Video,"poetry, creative writing, storytelling",Dr. E. Davis
+R0097,Climate Change and Sustainability,Detailed study material with real-world examples.,Technology,Advanced,Article,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0098,World History Overview,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Quiz,"environment, climate change, sustainability",Ms. R. Lee
+R0099,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Article,"poetry, creative writing, storytelling",Dr. P. Adams
+R0100,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Science,Advanced,Article,"electric circuits, voltage, current",Ms. T. Lewis
+R0101,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Technology,Beginner,Quiz,"environment, climate change, sustainability",Ms. T. Lewis
+R0102,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Article,"biology, anatomy, cells",Dr. K. Martinez
+R0103,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Article,"history, civilizations, warfare",Prof. L. Johnson
+R0104,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Video,"robotics, automation, sensors",Prof. B. Clark
+R0105,Electrical Engineering Principles,Detailed study material with real-world examples.,Humanities,Advanced,Video,"history, civilizations, warfare",Dr. J. Wilson
+R0106,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Science,Beginner,Video,"ethics, philosophy, morality",Dr. J. Wilson
+R0107,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Video,"electric circuits, voltage, current",Dr. M. Carter
+R0108,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Technology,Advanced,Quiz,"databases, SQL, data storage",Dr. J. Wilson
+R0109,Creative Writing Workshop,Detailed study material with real-world examples.,Others,Intermediate,Quiz,"environment, climate change, sustainability",Dr. A. Smith
+R0110,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Quiz,"environment, climate change, sustainability",Dr. E. Davis
+R0111,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Technology,Advanced,Quiz,"electric circuits, voltage, current",Dr. A. Smith
+R0112,World History Overview,Detailed study material with real-world examples.,Others,Advanced,Quiz,"databases, SQL, data storage",Dr. M. Carter
+R0113,Database Design and Management,An intermediate course focusing on core concepts.,Technology,Intermediate,Quiz,"physics, quantum mechanics, particles",Dr. E. Davis
+R0114,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Article,"physics, quantum mechanics, particles",Dr. A. Smith
+R0115,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Quiz,"electric circuits, voltage, current",Dr. K. Martinez
+R0116,Database Design and Management,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Quiz,"databases, SQL, data storage",Dr. A. Smith
+R0117,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Science,Beginner,Quiz,"machine learning, AI, neural networks",Dr. J. Wilson
+R0118,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Article,"poetry, creative writing, storytelling",Ms. T. Lewis
+R0119,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Article,"environment, climate change, sustainability",Ms. T. Lewis
+R0120,World History Overview,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Video,"electric circuits, voltage, current",Dr. M. Carter
+R0121,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Technology,Advanced,Article,"environment, climate change, sustainability",Dr. P. Adams
+R0122,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Technology,Advanced,Video,"ethics, philosophy, morality",Ms. R. Lee
+R0123,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Science,Beginner,Article,"biology, anatomy, cells",Ms. R. Lee
+R0124,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Others,Beginner,Video,"electric circuits, voltage, current",Prof. L. Johnson
+R0125,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Science,Advanced,Video,"environment, climate change, sustainability",Dr. J. Wilson
+R0126,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Humanities,Beginner,Article,"robotics, automation, sensors",Ms. R. Lee
+R0127,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Science,Beginner,Quiz,"electric circuits, voltage, current",Dr. M. Carter
+R0128,World History Overview,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Video,"history, civilizations, warfare",Dr. M. Carter
+R0129,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Science,Intermediate,Article,"machine learning, AI, neural networks",Dr. P. Adams
+R0130,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Video,"biology, anatomy, cells",Dr. A. Smith
+R0131,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Others,Advanced,Video,"history, civilizations, warfare",Dr. J. Wilson
+R0132,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Others,Advanced,Article,"history, civilizations, warfare",Ms. R. Lee
+R0133,Database Design and Management,Detailed study material with real-world examples.,Science,Beginner,Video,"robotics, automation, sensors",Dr. M. Carter
+R0134,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Video,"electric circuits, voltage, current",Prof. L. Johnson
+R0135,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Quiz,"environment, climate change, sustainability",Prof. L. Johnson
+R0136,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Technology,Beginner,Article,"physics, quantum mechanics, particles",Prof. B. Clark
+R0137,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Technology,Intermediate,Quiz,"poetry, creative writing, storytelling",Dr. E. Davis
+R0138,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Video,"ethics, philosophy, morality",Prof. B. Clark
+R0139,World History Overview,Detailed study material with real-world examples.,Humanities,Intermediate,Video,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0140,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Science,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0141,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Article,"physics, quantum mechanics, particles",Dr. A. Smith
+R0142,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Quiz,"machine learning, AI, neural networks",Ms. R. Lee
+R0143,Climate Change and Sustainability,Detailed study material with real-world examples.,Humanities,Beginner,Quiz,"databases, SQL, data storage",Prof. L. Johnson
+R0144,Creative Writing Workshop,Detailed study material with real-world examples.,Others,Beginner,Article,"biology, anatomy, cells",Ms. R. Lee
+R0145,World History Overview,Detailed study material with real-world examples.,Technology,Intermediate,Video,"databases, SQL, data storage",Dr. P. Adams
+R0146,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Quiz,"electric circuits, voltage, current",Dr. K. Martinez
+R0147,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Quiz,"electric circuits, voltage, current",Dr. E. Davis
+R0148,World History Overview,Well-structured learning with quizzes and assignments.,Science,Intermediate,Article,"history, civilizations, warfare",Dr. K. Martinez
+R0149,Basics of Human Anatomy,Detailed study material with real-world examples.,Others,Advanced,Article,"electric circuits, voltage, current",Ms. T. Lewis
+R0150,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Technology,Advanced,Video,"environment, climate change, sustainability",Dr. K. Martinez
+R0151,Introduction to Machine Learning,Detailed study material with real-world examples.,Technology,Beginner,Article,"robotics, automation, sensors",Prof. B. Clark
+R0152,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Science,Intermediate,Article,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0153,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Science,Advanced,Article,"ethics, philosophy, morality",Dr. K. Martinez
+R0154,World History Overview,An intermediate course focusing on core concepts.,Science,Intermediate,Quiz,"ethics, philosophy, morality",Dr. M. Carter
+R0155,Climate Change and Sustainability,Detailed study material with real-world examples.,Humanities,Beginner,Article,"history, civilizations, warfare",Ms. R. Lee
+R0156,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Science,Beginner,Article,"history, civilizations, warfare",Dr. J. Wilson
+R0157,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Quiz,"electric circuits, voltage, current",Dr. E. Davis
+R0158,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Humanities,Intermediate,Video,"physics, quantum mechanics, particles",Dr. P. Adams
+R0159,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Humanities,Intermediate,Article,"history, civilizations, warfare",Ms. T. Lewis
+R0160,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Others,Intermediate,Video,"databases, SQL, data storage",Dr. E. Davis
+R0161,The Fundamentals of Robotics,Detailed study material with real-world examples.,Technology,Advanced,Video,"machine learning, AI, neural networks",Dr. J. Wilson
+R0162,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Science,Advanced,Article,"biology, anatomy, cells",Dr. M. Carter
+R0163,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Article,"environment, climate change, sustainability",Ms. R. Lee
+R0164,Basics of Human Anatomy,Detailed study material with real-world examples.,Humanities,Advanced,Video,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0165,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Technology,Beginner,Quiz,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0166,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Science,Beginner,Quiz,"biology, anatomy, cells",Dr. J. Wilson
+R0167,Database Design and Management,Detailed study material with real-world examples.,Others,Intermediate,Article,"databases, SQL, data storage",Dr. P. Adams
+R0168,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Video,"robotics, automation, sensors",Dr. M. Carter
+R0169,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Others,Beginner,Quiz,"ethics, philosophy, morality",Dr. A. Smith
+R0170,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Video,"electric circuits, voltage, current",Prof. B. Clark
+R0171,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Science,Beginner,Article,"electric circuits, voltage, current",Dr. M. Carter
+R0172,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Video,"biology, anatomy, cells",Ms. R. Lee
+R0173,World History Overview,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"poetry, creative writing, storytelling",Prof. B. Clark
+R0174,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Others,Intermediate,Article,"robotics, automation, sensors",Dr. A. Smith
+R0175,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Science,Intermediate,Quiz,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0176,Database Design and Management,Detailed study material with real-world examples.,Humanities,Beginner,Video,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0177,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Article,"history, civilizations, warfare",Prof. B. Clark
+R0178,Database Design and Management,Well-structured learning with quizzes and assignments.,Technology,Advanced,Article,"poetry, creative writing, storytelling",Ms. T. Lewis
+R0179,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Others,Beginner,Video,"biology, anatomy, cells",Ms. T. Lewis
+R0180,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Science,Beginner,Article,"physics, quantum mechanics, particles",Dr. J. Wilson
+R0181,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Technology,Intermediate,Quiz,"electric circuits, voltage, current",Prof. L. Johnson
+R0182,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Video,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0183,Introduction to Machine Learning,An intermediate course focusing on core concepts.,Others,Advanced,Article,"biology, anatomy, cells",Dr. A. Smith
+R0184,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Science,Advanced,Video,"robotics, automation, sensors",Ms. R. Lee
+R0185,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Others,Intermediate,Article,"electric circuits, voltage, current",Dr. J. Wilson
+R0186,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Quiz,"electric circuits, voltage, current",Dr. K. Martinez
+R0187,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Science,Beginner,Article,"robotics, automation, sensors",Dr. J. Wilson
+R0188,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Science,Advanced,Article,"machine learning, AI, neural networks",Dr. E. Davis
+R0189,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Technology,Intermediate,Quiz,"ethics, philosophy, morality",Dr. K. Martinez
+R0190,Database Design and Management,Detailed study material with real-world examples.,Humanities,Intermediate,Article,"databases, SQL, data storage",Prof. B. Clark
+R0191,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Science,Beginner,Quiz,"machine learning, AI, neural networks",Dr. M. Carter
+R0192,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Quiz,"machine learning, AI, neural networks",Dr. A. Smith
+R0193,Basics of Human Anatomy,Detailed study material with real-world examples.,Science,Advanced,Article,"poetry, creative writing, storytelling",Prof. B. Clark
+R0194,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Others,Intermediate,Quiz,"robotics, automation, sensors",Ms. R. Lee
+R0195,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Article,"ethics, philosophy, morality",Prof. B. Clark
+R0196,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Quiz,"electric circuits, voltage, current",Dr. A. Smith
+R0197,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Video,"databases, SQL, data storage",Dr. A. Smith
+R0198,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Quiz,"ethics, philosophy, morality",Dr. M. Carter
+R0199,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Article,"biology, anatomy, cells",Dr. M. Carter
+R0200,Climate Change and Sustainability,Detailed study material with real-world examples.,Humanities,Intermediate,Article,"ethics, philosophy, morality",Prof. L. Johnson
+R0201,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Technology,Beginner,Video,"biology, anatomy, cells",Dr. K. Martinez
+R0202,Climate Change and Sustainability,Detailed study material with real-world examples.,Technology,Beginner,Quiz,"databases, SQL, data storage",Dr. J. Wilson
+R0203,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Science,Beginner,Video,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0204,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Science,Advanced,Video,"physics, quantum mechanics, particles",Dr. K. Martinez
+R0205,Database Design and Management,Detailed study material with real-world examples.,Humanities,Beginner,Article,"ethics, philosophy, morality",Prof. L. Johnson
+R0206,Database Design and Management,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Article,"machine learning, AI, neural networks",Ms. R. Lee
+R0207,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Video,"robotics, automation, sensors",Dr. K. Martinez
+R0208,World History Overview,An intermediate course focusing on core concepts.,Others,Advanced,Video,"biology, anatomy, cells",Prof. L. Johnson
+R0209,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Humanities,Beginner,Article,"machine learning, AI, neural networks",Ms. T. Lewis
+R0210,World History Overview,Fundamentals combined with hands-on project activities.,Others,Advanced,Quiz,"poetry, creative writing, storytelling",Ms. T. Lewis
+R0211,World History Overview,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Article,"databases, SQL, data storage",Dr. A. Smith
+R0212,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Quiz,"databases, SQL, data storage",Ms. R. Lee
+R0213,World History Overview,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Video,"electric circuits, voltage, current",Prof. L. Johnson
+R0214,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Technology,Advanced,Article,"electric circuits, voltage, current",Ms. R. Lee
+R0215,Database Design and Management,Fundamentals combined with hands-on project activities.,Technology,Beginner,Quiz,"machine learning, AI, neural networks",Dr. J. Wilson
+R0216,Creative Writing Workshop,Detailed study material with real-world examples.,Humanities,Advanced,Video,"biology, anatomy, cells",Ms. R. Lee
+R0217,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Quiz,"poetry, creative writing, storytelling",Prof. B. Clark
+R0218,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Article,"biology, anatomy, cells",Dr. K. Martinez
+R0219,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Science,Intermediate,Article,"robotics, automation, sensors",Dr. J. Wilson
+R0220,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Others,Advanced,Video,"biology, anatomy, cells",Ms. T. Lewis
+R0221,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Technology,Intermediate,Video,"ethics, philosophy, morality",Prof. B. Clark
+R0222,The Fundamentals of Robotics,Detailed study material with real-world examples.,Others,Beginner,Video,"robotics, automation, sensors",Prof. L. Johnson
+R0223,Database Design and Management,Fundamentals combined with hands-on project activities.,Technology,Beginner,Article,"machine learning, AI, neural networks",Dr. M. Carter
+R0224,Database Design and Management,An intermediate course focusing on core concepts.,Humanities,Intermediate,Quiz,"machine learning, AI, neural networks",Dr. K. Martinez
+R0225,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Others,Beginner,Article,"machine learning, AI, neural networks",Dr. K. Martinez
+R0226,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Humanities,Advanced,Video,"ethics, philosophy, morality",Dr. A. Smith
+R0227,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Article,"robotics, automation, sensors",Dr. A. Smith
+R0228,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Quiz,"environment, climate change, sustainability",Dr. J. Wilson
+R0229,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Quiz,"machine learning, AI, neural networks",Prof. B. Clark
+R0230,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Quiz,"databases, SQL, data storage",Prof. B. Clark
+R0231,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Others,Intermediate,Article,"machine learning, AI, neural networks",Prof. L. Johnson
+R0232,Electrical Engineering Principles,Detailed study material with real-world examples.,Science,Advanced,Article,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0233,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"ethics, philosophy, morality",Dr. P. Adams
+R0234,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Video,"robotics, automation, sensors",Ms. R. Lee
+R0235,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Others,Beginner,Video,"biology, anatomy, cells",Dr. J. Wilson
+R0236,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Others,Advanced,Video,"environment, climate change, sustainability",Prof. L. Johnson
+R0237,The Fundamentals of Robotics,Detailed study material with real-world examples.,Technology,Intermediate,Video,"environment, climate change, sustainability",Prof. L. Johnson
+R0238,Database Design and Management,An intermediate course focusing on core concepts.,Humanities,Intermediate,Video,"poetry, creative writing, storytelling",Ms. R. Lee
+R0239,Introduction to Machine Learning,Detailed study material with real-world examples.,Science,Beginner,Video,"biology, anatomy, cells",Dr. M. Carter
+R0240,Introduction to Machine Learning,An intermediate course focusing on core concepts.,Technology,Advanced,Quiz,"robotics, automation, sensors",Dr. A. Smith
+R0241,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Quiz,"databases, SQL, data storage",Dr. M. Carter
+R0242,Database Design and Management,Detailed study material with real-world examples.,Others,Advanced,Article,"robotics, automation, sensors",Ms. T. Lewis
+R0243,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"robotics, automation, sensors",Prof. L. Johnson
+R0244,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Humanities,Advanced,Article,"ethics, philosophy, morality",Dr. K. Martinez
+R0245,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Humanities,Intermediate,Video,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0246,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Video,"biology, anatomy, cells",Dr. K. Martinez
+R0247,The Fundamentals of Robotics,Detailed study material with real-world examples.,Others,Intermediate,Article,"machine learning, AI, neural networks",Dr. M. Carter
+R0248,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Technology,Advanced,Video,"machine learning, AI, neural networks",Dr. A. Smith
+R0249,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Quiz,"ethics, philosophy, morality",Dr. P. Adams
+R0250,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Video,"machine learning, AI, neural networks",Dr. P. Adams
+R0251,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Quiz,"poetry, creative writing, storytelling",Dr. A. Smith
+R0252,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Quiz,"electric circuits, voltage, current",Dr. J. Wilson
+R0253,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Article,"ethics, philosophy, morality",Dr. J. Wilson
+R0254,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Others,Advanced,Quiz,"biology, anatomy, cells",Dr. J. Wilson
+R0255,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Others,Advanced,Video,"environment, climate change, sustainability",Dr. M. Carter
+R0256,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Article,"ethics, philosophy, morality",Dr. K. Martinez
+R0257,Creative Writing Workshop,An intermediate course focusing on core concepts.,Technology,Intermediate,Quiz,"ethics, philosophy, morality",Prof. B. Clark
+R0258,Introduction to Machine Learning,Detailed study material with real-world examples.,Technology,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. M. Carter
+R0259,World History Overview,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Article,"ethics, philosophy, morality",Dr. E. Davis
+R0260,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Quiz,"electric circuits, voltage, current",Dr. E. Davis
+R0261,Creative Writing Workshop,Detailed study material with real-world examples.,Humanities,Intermediate,Quiz,"databases, SQL, data storage",Dr. P. Adams
+R0262,Introduction to Machine Learning,Detailed study material with real-world examples.,Humanities,Intermediate,Quiz,"ethics, philosophy, morality",Ms. R. Lee
+R0263,World History Overview,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Quiz,"electric circuits, voltage, current",Dr. P. Adams
+R0264,Creative Writing Workshop,Detailed study material with real-world examples.,Technology,Beginner,Video,"robotics, automation, sensors",Ms. T. Lewis
+R0265,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Video,"electric circuits, voltage, current",Dr. E. Davis
+R0266,Creative Writing Workshop,An intermediate course focusing on core concepts.,Humanities,Intermediate,Video,"poetry, creative writing, storytelling",Ms. R. Lee
+R0267,World History Overview,An intermediate course focusing on core concepts.,Others,Advanced,Article,"poetry, creative writing, storytelling",Dr. P. Adams
+R0268,Creative Writing Workshop,Detailed study material with real-world examples.,Technology,Beginner,Quiz,"robotics, automation, sensors",Dr. K. Martinez
+R0269,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Others,Intermediate,Video,"history, civilizations, warfare",Prof. B. Clark
+R0270,Database Design and Management,A beginner-friendly overview with interactive sessions.,Others,Advanced,Article,"history, civilizations, warfare",Dr. A. Smith
+R0271,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Science,Intermediate,Article,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0272,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Science,Intermediate,Video,"physics, quantum mechanics, particles",Ms. R. Lee
+R0273,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Video,"ethics, philosophy, morality",Ms. T. Lewis
+R0274,Climate Change and Sustainability,Detailed study material with real-world examples.,Science,Beginner,Quiz,"biology, anatomy, cells",Dr. E. Davis
+R0275,Climate Change and Sustainability,Detailed study material with real-world examples.,Humanities,Advanced,Article,"electric circuits, voltage, current",Prof. B. Clark
+R0276,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Others,Beginner,Quiz,"environment, climate change, sustainability",Ms. R. Lee
+R0277,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Others,Advanced,Quiz,"history, civilizations, warfare",Prof. L. Johnson
+R0278,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Article,"biology, anatomy, cells",Dr. J. Wilson
+R0279,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Article,"machine learning, AI, neural networks",Ms. T. Lewis
+R0280,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Technology,Beginner,Article,"electric circuits, voltage, current",Prof. B. Clark
+R0281,World History Overview,Well-structured learning with quizzes and assignments.,Others,Intermediate,Quiz,"environment, climate change, sustainability",Prof. B. Clark
+R0282,Database Design and Management,An intermediate course focusing on core concepts.,Others,Intermediate,Article,"environment, climate change, sustainability",Dr. K. Martinez
+R0283,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Science,Intermediate,Article,"databases, SQL, data storage",Dr. K. Martinez
+R0284,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Science,Advanced,Video,"environment, climate change, sustainability",Dr. M. Carter
+R0285,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Others,Advanced,Quiz,"ethics, philosophy, morality",Ms. T. Lewis
+R0286,Basics of Human Anatomy,Detailed study material with real-world examples.,Technology,Advanced,Article,"machine learning, AI, neural networks",Prof. B. Clark
+R0287,Introduction to Machine Learning,Detailed study material with real-world examples.,Science,Beginner,Quiz,"databases, SQL, data storage",Ms. R. Lee
+R0288,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Science,Advanced,Video,"machine learning, AI, neural networks",Dr. K. Martinez
+R0289,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Others,Beginner,Quiz,"biology, anatomy, cells",Ms. R. Lee
+R0290,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Humanities,Beginner,Quiz,"machine learning, AI, neural networks",Dr. P. Adams
+R0291,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Science,Intermediate,Quiz,"physics, quantum mechanics, particles",Dr. E. Davis
+R0292,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Science,Beginner,Quiz,"electric circuits, voltage, current",Ms. T. Lewis
+R0293,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Quiz,"biology, anatomy, cells",Dr. M. Carter
+R0294,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Others,Beginner,Quiz,"environment, climate change, sustainability",Dr. J. Wilson
+R0295,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Technology,Advanced,Quiz,"ethics, philosophy, morality",Prof. L. Johnson
+R0296,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Quiz,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0297,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Humanities,Intermediate,Article,"databases, SQL, data storage",Prof. B. Clark
+R0298,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Technology,Beginner,Quiz,"databases, SQL, data storage",Prof. L. Johnson
+R0299,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Quiz,"databases, SQL, data storage",Dr. M. Carter
+R0300,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Others,Beginner,Video,"ethics, philosophy, morality",Dr. K. Martinez
+R0301,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Science,Advanced,Video,"biology, anatomy, cells",Dr. P. Adams
+R0302,The Fundamentals of Robotics,Detailed study material with real-world examples.,Humanities,Advanced,Article,"databases, SQL, data storage",Dr. K. Martinez
+R0303,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Others,Advanced,Quiz,"databases, SQL, data storage",Dr. J. Wilson
+R0304,Creative Writing Workshop,An intermediate course focusing on core concepts.,Technology,Advanced,Article,"machine learning, AI, neural networks",Dr. J. Wilson
+R0305,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Science,Advanced,Quiz,"electric circuits, voltage, current",Dr. M. Carter
+R0306,Database Design and Management,Detailed study material with real-world examples.,Science,Advanced,Video,"databases, SQL, data storage",Dr. M. Carter
+R0307,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Humanities,Intermediate,Quiz,"machine learning, AI, neural networks",Dr. A. Smith
+R0308,World History Overview,Fundamentals combined with hands-on project activities.,Science,Intermediate,Article,"robotics, automation, sensors",Dr. A. Smith
+R0309,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Video,"physics, quantum mechanics, particles",Dr. P. Adams
+R0310,World History Overview,Well-structured learning with quizzes and assignments.,Technology,Beginner,Quiz,"poetry, creative writing, storytelling",Ms. R. Lee
+R0311,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Science,Beginner,Video,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0312,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Video,"poetry, creative writing, storytelling",Dr. P. Adams
+R0313,Climate Change and Sustainability,Detailed study material with real-world examples.,Humanities,Advanced,Quiz,"poetry, creative writing, storytelling",Ms. R. Lee
+R0314,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Science,Beginner,Article,"electric circuits, voltage, current",Prof. B. Clark
+R0315,Database Design and Management,Detailed study material with real-world examples.,Others,Beginner,Quiz,"electric circuits, voltage, current",Dr. K. Martinez
+R0316,World History Overview,An intermediate course focusing on core concepts.,Others,Beginner,Video,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0317,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Article,"history, civilizations, warfare",Dr. K. Martinez
+R0318,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Others,Beginner,Article,"databases, SQL, data storage",Prof. B. Clark
+R0319,Climate Change and Sustainability,Detailed study material with real-world examples.,Technology,Intermediate,Article,"robotics, automation, sensors",Ms. R. Lee
+R0320,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Others,Advanced,Quiz,"machine learning, AI, neural networks",Dr. M. Carter
+R0321,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Science,Advanced,Quiz,"databases, SQL, data storage",Dr. J. Wilson
+R0322,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Others,Advanced,Video,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0323,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Technology,Intermediate,Quiz,"physics, quantum mechanics, particles",Dr. P. Adams
+R0324,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Article,"machine learning, AI, neural networks",Ms. T. Lewis
+R0325,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Science,Intermediate,Article,"ethics, philosophy, morality",Ms. T. Lewis
+R0326,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Others,Advanced,Article,"history, civilizations, warfare",Dr. M. Carter
+R0327,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Humanities,Beginner,Article,"poetry, creative writing, storytelling",Dr. P. Adams
+R0328,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Science,Advanced,Quiz,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0329,Database Design and Management,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. K. Martinez
+R0330,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Others,Beginner,Video,"electric circuits, voltage, current",Dr. E. Davis
+R0331,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Science,Advanced,Quiz,"environment, climate change, sustainability",Prof. B. Clark
+R0332,Basics of Human Anatomy,Detailed study material with real-world examples.,Others,Advanced,Video,"history, civilizations, warfare",Dr. K. Martinez
+R0333,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Humanities,Intermediate,Quiz,"databases, SQL, data storage",Dr. A. Smith
+R0334,Electrical Engineering Principles,Detailed study material with real-world examples.,Technology,Beginner,Video,"databases, SQL, data storage",Dr. P. Adams
+R0335,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Video,"environment, climate change, sustainability",Dr. M. Carter
+R0336,World History Overview,Detailed study material with real-world examples.,Humanities,Beginner,Article,"robotics, automation, sensors",Dr. J. Wilson
+R0337,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Article,"ethics, philosophy, morality",Ms. R. Lee
+R0338,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Science,Beginner,Article,"environment, climate change, sustainability",Dr. J. Wilson
+R0339,Database Design and Management,Detailed study material with real-world examples.,Humanities,Advanced,Quiz,"machine learning, AI, neural networks",Prof. L. Johnson
+R0340,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Article,"environment, climate change, sustainability",Dr. J. Wilson
+R0341,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Science,Advanced,Article,"poetry, creative writing, storytelling",Dr. P. Adams
+R0342,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Quiz,"physics, quantum mechanics, particles",Dr. P. Adams
+R0343,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Humanities,Advanced,Article,"history, civilizations, warfare",Dr. P. Adams
+R0344,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Science,Intermediate,Quiz,"history, civilizations, warfare",Dr. A. Smith
+R0345,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Others,Advanced,Video,"environment, climate change, sustainability",Prof. L. Johnson
+R0346,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Science,Beginner,Video,"environment, climate change, sustainability",Prof. B. Clark
+R0347,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Humanities,Beginner,Article,"machine learning, AI, neural networks",Dr. E. Davis
+R0348,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Others,Beginner,Video,"electric circuits, voltage, current",Dr. A. Smith
+R0349,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Humanities,Intermediate,Video,"poetry, creative writing, storytelling",Dr. A. Smith
+R0350,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Science,Advanced,Article,"ethics, philosophy, morality",Dr. K. Martinez
+R0351,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Others,Intermediate,Quiz,"physics, quantum mechanics, particles",Dr. E. Davis
+R0352,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. P. Adams
+R0353,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"robotics, automation, sensors",Dr. K. Martinez
+R0354,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Technology,Advanced,Article,"history, civilizations, warfare",Ms. R. Lee
+R0355,Database Design and Management,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Quiz,"environment, climate change, sustainability",Ms. R. Lee
+R0356,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Technology,Advanced,Quiz,"biology, anatomy, cells",Dr. J. Wilson
+R0357,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Article,"physics, quantum mechanics, particles",Dr. M. Carter
+R0358,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Humanities,Advanced,Video,"ethics, philosophy, morality",Dr. A. Smith
+R0359,Creative Writing Workshop,Detailed study material with real-world examples.,Humanities,Beginner,Article,"environment, climate change, sustainability",Prof. B. Clark
+R0360,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Others,Beginner,Quiz,"robotics, automation, sensors",Dr. J. Wilson
+R0361,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Video,"environment, climate change, sustainability",Dr. E. Davis
+R0362,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Science,Beginner,Article,"machine learning, AI, neural networks",Dr. J. Wilson
+R0363,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Others,Advanced,Video,"databases, SQL, data storage",Prof. L. Johnson
+R0364,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Humanities,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. E. Davis
+R0365,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Science,Advanced,Article,"biology, anatomy, cells",Dr. M. Carter
+R0366,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Others,Advanced,Article,"machine learning, AI, neural networks",Dr. P. Adams
+R0367,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Others,Intermediate,Article,"machine learning, AI, neural networks",Prof. L. Johnson
+R0368,Climate Change and Sustainability,Detailed study material with real-world examples.,Science,Advanced,Video,"robotics, automation, sensors",Prof. L. Johnson
+R0369,Database Design and Management,An intermediate course focusing on core concepts.,Humanities,Advanced,Video,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0370,World History Overview,Detailed study material with real-world examples.,Humanities,Beginner,Quiz,"environment, climate change, sustainability",Ms. R. Lee
+R0371,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Others,Advanced,Quiz,"history, civilizations, warfare",Dr. J. Wilson
+R0372,World History Overview,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Video,"physics, quantum mechanics, particles",Dr. P. Adams
+R0373,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Article,"ethics, philosophy, morality",Prof. L. Johnson
+R0374,Database Design and Management,An intermediate course focusing on core concepts.,Humanities,Beginner,Quiz,"ethics, philosophy, morality",Dr. M. Carter
+R0375,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Technology,Advanced,Article,"history, civilizations, warfare",Ms. R. Lee
+R0376,Database Design and Management,Fundamentals combined with hands-on project activities.,Technology,Advanced,Video,"ethics, philosophy, morality",Dr. E. Davis
+R0377,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Science,Advanced,Article,"robotics, automation, sensors",Ms. T. Lewis
+R0378,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Others,Intermediate,Video,"electric circuits, voltage, current",Prof. L. Johnson
+R0379,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Science,Beginner,Article,"machine learning, AI, neural networks",Dr. M. Carter
+R0380,World History Overview,An intermediate course focusing on core concepts.,Science,Intermediate,Article,"ethics, philosophy, morality",Ms. T. Lewis
+R0381,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Quiz,"machine learning, AI, neural networks",Ms. T. Lewis
+R0382,Database Design and Management,Well-structured learning with quizzes and assignments.,Others,Beginner,Article,"databases, SQL, data storage",Ms. T. Lewis
+R0383,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Technology,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. E. Davis
+R0384,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Quiz,"biology, anatomy, cells",Prof. B. Clark
+R0385,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Others,Intermediate,Video,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0386,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Video,"history, civilizations, warfare",Prof. B. Clark
+R0387,Climate Change and Sustainability,Detailed study material with real-world examples.,Others,Beginner,Quiz,"electric circuits, voltage, current",Prof. L. Johnson
+R0388,World History Overview,Well-structured learning with quizzes and assignments.,Others,Intermediate,Article,"history, civilizations, warfare",Dr. E. Davis
+R0389,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Technology,Advanced,Article,"machine learning, AI, neural networks",Dr. E. Davis
+R0390,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0391,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Others,Intermediate,Video,"environment, climate change, sustainability",Dr. E. Davis
+R0392,The Fundamentals of Robotics,Detailed study material with real-world examples.,Technology,Intermediate,Article,"robotics, automation, sensors",Dr. E. Davis
+R0393,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Video,"robotics, automation, sensors",Dr. P. Adams
+R0394,Basics of Human Anatomy,Detailed study material with real-world examples.,Others,Advanced,Quiz,"robotics, automation, sensors",Prof. L. Johnson
+R0395,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Others,Beginner,Video,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0396,Database Design and Management,Well-structured learning with quizzes and assignments.,Science,Intermediate,Video,"robotics, automation, sensors",Dr. P. Adams
+R0397,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Video,"ethics, philosophy, morality",Dr. E. Davis
+R0398,Basics of Human Anatomy,Detailed study material with real-world examples.,Technology,Advanced,Quiz,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0399,World History Overview,Fundamentals combined with hands-on project activities.,Others,Intermediate,Quiz,"robotics, automation, sensors",Ms. T. Lewis
+R0400,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Article,"physics, quantum mechanics, particles",Dr. M. Carter
+R0401,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Article,"ethics, philosophy, morality",Dr. K. Martinez
+R0402,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Article,"robotics, automation, sensors",Dr. A. Smith
+R0403,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Others,Intermediate,Article,"biology, anatomy, cells",Ms. R. Lee
+R0404,World History Overview,Detailed study material with real-world examples.,Science,Intermediate,Quiz,"poetry, creative writing, storytelling",Ms. T. Lewis
+R0405,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Quiz,"ethics, philosophy, morality",Ms. T. Lewis
+R0406,World History Overview,Detailed study material with real-world examples.,Others,Intermediate,Article,"robotics, automation, sensors",Ms. T. Lewis
+R0407,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Video,"poetry, creative writing, storytelling",Dr. P. Adams
+R0408,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Science,Intermediate,Quiz,"poetry, creative writing, storytelling",Ms. T. Lewis
+R0409,Database Design and Management,Well-structured learning with quizzes and assignments.,Others,Advanced,Article,"environment, climate change, sustainability",Prof. B. Clark
+R0410,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Others,Advanced,Quiz,"electric circuits, voltage, current",Ms. R. Lee
+R0411,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Quiz,"databases, SQL, data storage",Ms. T. Lewis
+R0412,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Quiz,"electric circuits, voltage, current",Prof. B. Clark
+R0413,Basics of Human Anatomy,Detailed study material with real-world examples.,Technology,Beginner,Video,"ethics, philosophy, morality",Prof. L. Johnson
+R0414,Creative Writing Workshop,Detailed study material with real-world examples.,Science,Intermediate,Quiz,"databases, SQL, data storage",Dr. M. Carter
+R0415,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Humanities,Advanced,Video,"electric circuits, voltage, current",Dr. K. Martinez
+R0416,Climate Change and Sustainability,Detailed study material with real-world examples.,Technology,Beginner,Quiz,"electric circuits, voltage, current",Dr. A. Smith
+R0417,Electrical Engineering Principles,Detailed study material with real-world examples.,Science,Beginner,Video,"environment, climate change, sustainability",Ms. T. Lewis
+R0418,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Article,"history, civilizations, warfare",Dr. E. Davis
+R0419,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Others,Beginner,Video,"ethics, philosophy, morality",Prof. L. Johnson
+R0420,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Quiz,"databases, SQL, data storage",Dr. K. Martinez
+R0421,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Technology,Beginner,Article,"physics, quantum mechanics, particles",Dr. P. Adams
+R0422,Introduction to Machine Learning,An intermediate course focusing on core concepts.,Humanities,Intermediate,Quiz,"electric circuits, voltage, current",Prof. B. Clark
+R0423,Basics of Human Anatomy,Detailed study material with real-world examples.,Humanities,Beginner,Quiz,"machine learning, AI, neural networks",Ms. R. Lee
+R0424,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Article,"ethics, philosophy, morality",Dr. P. Adams
+R0425,Database Design and Management,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Video,"biology, anatomy, cells",Dr. M. Carter
+R0426,Database Design and Management,Fundamentals combined with hands-on project activities.,Technology,Advanced,Article,"biology, anatomy, cells",Dr. E. Davis
+R0427,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Technology,Intermediate,Article,"robotics, automation, sensors",Dr. M. Carter
+R0428,World History Overview,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"history, civilizations, warfare",Ms. T. Lewis
+R0429,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Technology,Intermediate,Article,"machine learning, AI, neural networks",Dr. P. Adams
+R0430,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Science,Beginner,Article,"robotics, automation, sensors",Ms. T. Lewis
+R0431,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Others,Beginner,Article,"databases, SQL, data storage",Prof. B. Clark
+R0432,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Quiz,"environment, climate change, sustainability",Prof. B. Clark
+R0433,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Others,Advanced,Quiz,"physics, quantum mechanics, particles",Dr. A. Smith
+R0434,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Others,Intermediate,Quiz,"poetry, creative writing, storytelling",Prof. B. Clark
+R0435,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Video,"ethics, philosophy, morality",Prof. B. Clark
+R0436,Database Design and Management,Detailed study material with real-world examples.,Humanities,Advanced,Quiz,"ethics, philosophy, morality",Dr. A. Smith
+R0437,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Video,"history, civilizations, warfare",Ms. T. Lewis
+R0438,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Quiz,"ethics, philosophy, morality",Ms. T. Lewis
+R0439,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Science,Advanced,Video,"biology, anatomy, cells",Prof. B. Clark
+R0440,Database Design and Management,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Quiz,"electric circuits, voltage, current",Prof. B. Clark
+R0441,World History Overview,Fundamentals combined with hands-on project activities.,Science,Intermediate,Quiz,"physics, quantum mechanics, particles",Prof. B. Clark
+R0442,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Video,"robotics, automation, sensors",Dr. A. Smith
+R0443,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Science,Beginner,Article,"robotics, automation, sensors",Prof. B. Clark
+R0444,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Article,"history, civilizations, warfare",Prof. L. Johnson
+R0445,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Article,"biology, anatomy, cells",Dr. A. Smith
+R0446,Introduction to Machine Learning,Detailed study material with real-world examples.,Others,Intermediate,Quiz,"machine learning, AI, neural networks",Dr. M. Carter
+R0447,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Video,"databases, SQL, data storage",Dr. E. Davis
+R0448,World History Overview,Detailed study material with real-world examples.,Others,Intermediate,Video,"robotics, automation, sensors",Dr. J. Wilson
+R0449,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Article,"databases, SQL, data storage",Ms. T. Lewis
+R0450,The Fundamentals of Robotics,Detailed study material with real-world examples.,Science,Intermediate,Article,"physics, quantum mechanics, particles",Dr. J. Wilson
+R0451,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Quiz,"machine learning, AI, neural networks",Dr. M. Carter
+R0452,Creative Writing Workshop,Detailed study material with real-world examples.,Technology,Advanced,Video,"environment, climate change, sustainability",Ms. R. Lee
+R0453,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Humanities,Advanced,Video,"history, civilizations, warfare",Dr. P. Adams
+R0454,The Fundamentals of Robotics,Detailed study material with real-world examples.,Technology,Beginner,Quiz,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0455,Database Design and Management,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Article,"environment, climate change, sustainability",Dr. E. Davis
+R0456,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Technology,Advanced,Video,"robotics, automation, sensors",Dr. M. Carter
+R0457,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Article,"poetry, creative writing, storytelling",Dr. P. Adams
+R0458,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Others,Intermediate,Video,"physics, quantum mechanics, particles",Dr. P. Adams
+R0459,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Others,Intermediate,Quiz,"biology, anatomy, cells",Dr. E. Davis
+R0460,Database Design and Management,An intermediate course focusing on core concepts.,Science,Advanced,Video,"robotics, automation, sensors",Dr. E. Davis
+R0461,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Technology,Advanced,Quiz,"biology, anatomy, cells",Dr. A. Smith
+R0462,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Technology,Beginner,Article,"robotics, automation, sensors",Ms. T. Lewis
+R0463,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Science,Advanced,Video,"physics, quantum mechanics, particles",Ms. R. Lee
+R0464,The Fundamentals of Robotics,Detailed study material with real-world examples.,Humanities,Intermediate,Article,"electric circuits, voltage, current",Ms. T. Lewis
+R0465,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Article,"databases, SQL, data storage",Ms. R. Lee
+R0466,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Article,"databases, SQL, data storage",Prof. B. Clark
+R0467,Database Design and Management,Detailed study material with real-world examples.,Science,Advanced,Video,"history, civilizations, warfare",Prof. L. Johnson
+R0468,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Science,Advanced,Quiz,"poetry, creative writing, storytelling",Dr. E. Davis
+R0469,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Article,"ethics, philosophy, morality",Dr. K. Martinez
+R0470,Electrical Engineering Principles,Detailed study material with real-world examples.,Humanities,Intermediate,Quiz,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0471,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Video,"environment, climate change, sustainability",Prof. L. Johnson
+R0472,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Technology,Beginner,Article,"biology, anatomy, cells",Dr. J. Wilson
+R0473,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Science,Beginner,Article,"machine learning, AI, neural networks",Ms. T. Lewis
+R0474,Database Design and Management,Fundamentals combined with hands-on project activities.,Technology,Beginner,Article,"biology, anatomy, cells",Dr. K. Martinez
+R0475,World History Overview,An intermediate course focusing on core concepts.,Technology,Intermediate,Video,"physics, quantum mechanics, particles",Dr. K. Martinez
+R0476,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Others,Advanced,Quiz,"poetry, creative writing, storytelling",Ms. T. Lewis
+R0477,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Quiz,"electric circuits, voltage, current",Dr. J. Wilson
+R0478,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Quiz,"ethics, philosophy, morality",Dr. K. Martinez
+R0479,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Article,"physics, quantum mechanics, particles",Ms. R. Lee
+R0480,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Video,"environment, climate change, sustainability",Ms. T. Lewis
+R0481,The Fundamentals of Robotics,Detailed study material with real-world examples.,Humanities,Intermediate,Quiz,"physics, quantum mechanics, particles",Dr. M. Carter
+R0482,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Technology,Beginner,Video,"electric circuits, voltage, current",Dr. K. Martinez
+R0483,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Video,"machine learning, AI, neural networks",Dr. E. Davis
+R0484,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Article,"environment, climate change, sustainability",Dr. A. Smith
+R0485,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0486,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Quiz,"poetry, creative writing, storytelling",Dr. E. Davis
+R0487,Electrical Engineering Principles,Detailed study material with real-world examples.,Others,Advanced,Quiz,"ethics, philosophy, morality",Dr. M. Carter
+R0488,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Technology,Beginner,Quiz,"environment, climate change, sustainability",Ms. T. Lewis
+R0489,Database Design and Management,Detailed study material with real-world examples.,Others,Intermediate,Article,"databases, SQL, data storage",Ms. R. Lee
+R0490,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Science,Advanced,Video,"biology, anatomy, cells",Ms. T. Lewis
+R0491,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Video,"machine learning, AI, neural networks",Dr. M. Carter
+R0492,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Science,Beginner,Quiz,"databases, SQL, data storage",Dr. J. Wilson
+R0493,Creative Writing Workshop,An intermediate course focusing on core concepts.,Others,Intermediate,Article,"databases, SQL, data storage",Ms. T. Lewis
+R0494,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Quiz,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0495,Creative Writing Workshop,An intermediate course focusing on core concepts.,Others,Beginner,Quiz,"ethics, philosophy, morality",Dr. E. Davis
+R0496,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Technology,Beginner,Article,"poetry, creative writing, storytelling",Ms. R. Lee
+R0497,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Technology,Beginner,Article,"databases, SQL, data storage",Dr. E. Davis
+R0498,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Science,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0499,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Others,Advanced,Video,"environment, climate change, sustainability",Dr. M. Carter
+R0500,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Article,"robotics, automation, sensors",Dr. A. Smith
+R0501,World History Overview,An intermediate course focusing on core concepts.,Science,Advanced,Article,"poetry, creative writing, storytelling",Ms. R. Lee
+R0502,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Others,Beginner,Quiz,"robotics, automation, sensors",Dr. M. Carter
+R0503,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Humanities,Advanced,Quiz,"history, civilizations, warfare",Dr. M. Carter
+R0504,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Science,Intermediate,Video,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0505,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Others,Intermediate,Video,"environment, climate change, sustainability",Dr. J. Wilson
+R0506,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Video,"environment, climate change, sustainability",Dr. M. Carter
+R0507,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Others,Intermediate,Video,"biology, anatomy, cells",Dr. E. Davis
+R0508,World History Overview,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Article,"databases, SQL, data storage",Dr. E. Davis
+R0509,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Others,Advanced,Video,"poetry, creative writing, storytelling",Prof. B. Clark
+R0510,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Others,Intermediate,Quiz,"environment, climate change, sustainability",Prof. L. Johnson
+R0511,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Technology,Beginner,Article,"machine learning, AI, neural networks",Dr. A. Smith
+R0512,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Quiz,"databases, SQL, data storage",Ms. T. Lewis
+R0513,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Others,Intermediate,Quiz,"ethics, philosophy, morality",Dr. P. Adams
+R0514,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Humanities,Beginner,Article,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0515,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Others,Beginner,Video,"machine learning, AI, neural networks",Ms. R. Lee
+R0516,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Science,Beginner,Video,"poetry, creative writing, storytelling",Dr. P. Adams
+R0517,Database Design and Management,A beginner-friendly overview with interactive sessions.,Others,Advanced,Quiz,"robotics, automation, sensors",Dr. A. Smith
+R0518,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Others,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0519,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Quiz,"machine learning, AI, neural networks",Dr. J. Wilson
+R0520,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Others,Intermediate,Article,"history, civilizations, warfare",Ms. R. Lee
+R0521,Creative Writing Workshop,An intermediate course focusing on core concepts.,Humanities,Advanced,Video,"biology, anatomy, cells",Prof. B. Clark
+R0522,Electrical Engineering Principles,Detailed study material with real-world examples.,Others,Beginner,Video,"ethics, philosophy, morality",Ms. T. Lewis
+R0523,Electrical Engineering Principles,Detailed study material with real-world examples.,Technology,Beginner,Video,"history, civilizations, warfare",Ms. T. Lewis
+R0524,Database Design and Management,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Video,"machine learning, AI, neural networks",Dr. A. Smith
+R0525,World History Overview,Fundamentals combined with hands-on project activities.,Science,Advanced,Quiz,"databases, SQL, data storage",Dr. P. Adams
+R0526,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Article,"history, civilizations, warfare",Prof. B. Clark
+R0527,Database Design and Management,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Article,"machine learning, AI, neural networks",Dr. J. Wilson
+R0528,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Science,Advanced,Article,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0529,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"electric circuits, voltage, current",Dr. M. Carter
+R0530,Database Design and Management,An intermediate course focusing on core concepts.,Others,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. E. Davis
+R0531,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Article,"databases, SQL, data storage",Ms. R. Lee
+R0532,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Technology,Intermediate,Video,"databases, SQL, data storage",Dr. E. Davis
+R0533,Introduction to Machine Learning,An intermediate course focusing on core concepts.,Science,Intermediate,Video,"machine learning, AI, neural networks",Ms. R. Lee
+R0534,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Humanities,Intermediate,Quiz,"databases, SQL, data storage",Prof. B. Clark
+R0535,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Video,"databases, SQL, data storage",Prof. B. Clark
+R0536,Database Design and Management,Fundamentals combined with hands-on project activities.,Science,Intermediate,Article,"biology, anatomy, cells",Dr. P. Adams
+R0537,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Quiz,"biology, anatomy, cells",Dr. E. Davis
+R0538,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Others,Beginner,Article,"history, civilizations, warfare",Dr. M. Carter
+R0539,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Article,"history, civilizations, warfare",Dr. J. Wilson
+R0540,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Video,"ethics, philosophy, morality",Dr. P. Adams
+R0541,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Science,Intermediate,Article,"robotics, automation, sensors",Prof. L. Johnson
+R0542,Creative Writing Workshop,Detailed study material with real-world examples.,Others,Intermediate,Article,"machine learning, AI, neural networks",Dr. E. Davis
+R0543,World History Overview,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Quiz,"robotics, automation, sensors",Dr. J. Wilson
+R0544,World History Overview,Detailed study material with real-world examples.,Humanities,Beginner,Article,"electric circuits, voltage, current",Dr. J. Wilson
+R0545,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Video,"poetry, creative writing, storytelling",Ms. T. Lewis
+R0546,World History Overview,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Video,"environment, climate change, sustainability",Dr. E. Davis
+R0547,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Technology,Intermediate,Video,"history, civilizations, warfare",Dr. J. Wilson
+R0548,World History Overview,A beginner-friendly overview with interactive sessions.,Science,Beginner,Video,"ethics, philosophy, morality",Dr. A. Smith
+R0549,Database Design and Management,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Article,"electric circuits, voltage, current",Dr. P. Adams
+R0550,Database Design and Management,A beginner-friendly overview with interactive sessions.,Others,Beginner,Quiz,"ethics, philosophy, morality",Ms. R. Lee
+R0551,Basics of Human Anatomy,Detailed study material with real-world examples.,Others,Beginner,Video,"ethics, philosophy, morality",Ms. T. Lewis
+R0552,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Science,Beginner,Quiz,"biology, anatomy, cells",Prof. L. Johnson
+R0553,World History Overview,An intermediate course focusing on core concepts.,Science,Intermediate,Quiz,"electric circuits, voltage, current",Ms. R. Lee
+R0554,Climate Change and Sustainability,Detailed study material with real-world examples.,Others,Beginner,Quiz,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0555,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Video,"physics, quantum mechanics, particles",Dr. E. Davis
+R0556,World History Overview,Well-structured learning with quizzes and assignments.,Others,Beginner,Quiz,"history, civilizations, warfare",Prof. L. Johnson
+R0557,World History Overview,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Video,"databases, SQL, data storage",Dr. P. Adams
+R0558,Database Design and Management,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Quiz,"machine learning, AI, neural networks",Ms. T. Lewis
+R0559,World History Overview,Detailed study material with real-world examples.,Science,Advanced,Article,"environment, climate change, sustainability",Ms. T. Lewis
+R0560,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Others,Intermediate,Video,"biology, anatomy, cells",Dr. E. Davis
+R0561,World History Overview,Detailed study material with real-world examples.,Others,Beginner,Article,"robotics, automation, sensors",Dr. P. Adams
+R0562,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Others,Beginner,Article,"history, civilizations, warfare",Dr. M. Carter
+R0563,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Quiz,"environment, climate change, sustainability",Ms. R. Lee
+R0564,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Science,Intermediate,Article,"databases, SQL, data storage",Dr. A. Smith
+R0565,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Science,Beginner,Quiz,"robotics, automation, sensors",Dr. A. Smith
+R0566,World History Overview,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Video,"environment, climate change, sustainability",Dr. E. Davis
+R0567,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Article,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0568,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Others,Intermediate,Video,"biology, anatomy, cells",Dr. K. Martinez
+R0569,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Technology,Intermediate,Video,"ethics, philosophy, morality",Prof. L. Johnson
+R0570,The Fundamentals of Robotics,Detailed study material with real-world examples.,Humanities,Advanced,Article,"biology, anatomy, cells",Ms. R. Lee
+R0571,Database Design and Management,Fundamentals combined with hands-on project activities.,Science,Beginner,Article,"history, civilizations, warfare",Ms. R. Lee
+R0572,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Science,Intermediate,Article,"ethics, philosophy, morality",Dr. A. Smith
+R0573,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Science,Intermediate,Article,"ethics, philosophy, morality",Ms. T. Lewis
+R0574,Database Design and Management,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Quiz,"environment, climate change, sustainability",Dr. A. Smith
+R0575,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Video,"databases, SQL, data storage",Dr. K. Martinez
+R0576,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Article,"biology, anatomy, cells",Ms. R. Lee
+R0577,Database Design and Management,An intermediate course focusing on core concepts.,Others,Advanced,Quiz,"environment, climate change, sustainability",Dr. P. Adams
+R0578,Database Design and Management,Fundamentals combined with hands-on project activities.,Science,Beginner,Video,"biology, anatomy, cells",Prof. B. Clark
+R0579,World History Overview,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Article,"databases, SQL, data storage",Dr. J. Wilson
+R0580,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Article,"electric circuits, voltage, current",Ms. R. Lee
+R0581,Database Design and Management,Fundamentals combined with hands-on project activities.,Others,Advanced,Video,"ethics, philosophy, morality",Dr. E. Davis
+R0582,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Article,"environment, climate change, sustainability",Prof. L. Johnson
+R0583,The Fundamentals of Robotics,Detailed study material with real-world examples.,Technology,Advanced,Article,"environment, climate change, sustainability",Prof. B. Clark
+R0584,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Article,"electric circuits, voltage, current",Dr. M. Carter
+R0585,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Humanities,Advanced,Article,"machine learning, AI, neural networks",Prof. B. Clark
+R0586,World History Overview,Detailed study material with real-world examples.,Others,Advanced,Video,"history, civilizations, warfare",Dr. J. Wilson
+R0587,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Science,Advanced,Quiz,"history, civilizations, warfare",Ms. R. Lee
+R0588,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Science,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. J. Wilson
+R0589,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Video,"physics, quantum mechanics, particles",Dr. A. Smith
+R0590,World History Overview,Well-structured learning with quizzes and assignments.,Others,Intermediate,Article,"databases, SQL, data storage",Prof. B. Clark
+R0591,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Technology,Advanced,Video,"machine learning, AI, neural networks",Dr. K. Martinez
+R0592,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Science,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. A. Smith
+R0593,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Others,Advanced,Article,"ethics, philosophy, morality",Ms. T. Lewis
+R0594,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Technology,Advanced,Video,"electric circuits, voltage, current",Dr. K. Martinez
+R0595,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Technology,Beginner,Article,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0596,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Humanities,Intermediate,Video,"biology, anatomy, cells",Prof. L. Johnson
+R0597,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Quiz,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0598,World History Overview,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Quiz,"ethics, philosophy, morality",Dr. P. Adams
+R0599,World History Overview,Well-structured learning with quizzes and assignments.,Humanities,Advanced,Quiz,"robotics, automation, sensors",Dr. E. Davis
+R0600,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Others,Beginner,Article,"electric circuits, voltage, current",Dr. K. Martinez
+R0601,Database Design and Management,Detailed study material with real-world examples.,Science,Intermediate,Article,"physics, quantum mechanics, particles",Ms. R. Lee
+R0602,World History Overview,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Video,"robotics, automation, sensors",Dr. M. Carter
+R0603,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Others,Advanced,Article,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0604,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Video,"biology, anatomy, cells",Prof. L. Johnson
+R0605,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Video,"history, civilizations, warfare",Dr. A. Smith
+R0606,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Video,"ethics, philosophy, morality",Dr. K. Martinez
+R0607,Introduction to Machine Learning,An intermediate course focusing on core concepts.,Others,Intermediate,Video,"electric circuits, voltage, current",Dr. J. Wilson
+R0608,Database Design and Management,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Article,"environment, climate change, sustainability",Dr. K. Martinez
+R0609,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Humanities,Advanced,Quiz,"physics, quantum mechanics, particles",Dr. A. Smith
+R0610,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Others,Intermediate,Video,"databases, SQL, data storage",Prof. L. Johnson
+R0611,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Quiz,"ethics, philosophy, morality",Dr. K. Martinez
+R0612,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Science,Advanced,Article,"ethics, philosophy, morality",Dr. J. Wilson
+R0613,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"ethics, philosophy, morality",Dr. J. Wilson
+R0614,Database Design and Management,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Quiz,"ethics, philosophy, morality",Dr. M. Carter
+R0615,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Others,Beginner,Article,"robotics, automation, sensors",Dr. J. Wilson
+R0616,Database Design and Management,Detailed study material with real-world examples.,Technology,Advanced,Quiz,"databases, SQL, data storage",Prof. B. Clark
+R0617,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Others,Beginner,Article,"robotics, automation, sensors",Dr. J. Wilson
+R0618,Database Design and Management,Fundamentals combined with hands-on project activities.,Science,Beginner,Quiz,"robotics, automation, sensors",Ms. R. Lee
+R0619,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Science,Beginner,Article,"poetry, creative writing, storytelling",Dr. P. Adams
+R0620,Database Design and Management,Detailed study material with real-world examples.,Technology,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. K. Martinez
+R0621,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Science,Advanced,Video,"history, civilizations, warfare",Ms. R. Lee
+R0622,World History Overview,A beginner-friendly overview with interactive sessions.,Science,Advanced,Video,"machine learning, AI, neural networks",Dr. P. Adams
+R0623,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Others,Intermediate,Quiz,"electric circuits, voltage, current",Prof. B. Clark
+R0624,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Quiz,"environment, climate change, sustainability",Prof. L. Johnson
+R0625,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Science,Advanced,Quiz,"machine learning, AI, neural networks",Dr. J. Wilson
+R0626,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Science,Advanced,Quiz,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0627,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Technology,Intermediate,Video,"ethics, philosophy, morality",Dr. E. Davis
+R0628,Basics of Human Anatomy,Detailed study material with real-world examples.,Humanities,Intermediate,Quiz,"history, civilizations, warfare",Ms. T. Lewis
+R0629,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Science,Beginner,Article,"physics, quantum mechanics, particles",Dr. J. Wilson
+R0630,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Science,Intermediate,Quiz,"physics, quantum mechanics, particles",Dr. J. Wilson
+R0631,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Science,Intermediate,Article,"environment, climate change, sustainability",Dr. K. Martinez
+R0632,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Others,Intermediate,Quiz,"environment, climate change, sustainability",Dr. J. Wilson
+R0633,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Others,Advanced,Video,"poetry, creative writing, storytelling",Dr. E. Davis
+R0634,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Video,"poetry, creative writing, storytelling",Dr. A. Smith
+R0635,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Science,Beginner,Quiz,"biology, anatomy, cells",Ms. T. Lewis
+R0636,Database Design and Management,An intermediate course focusing on core concepts.,Technology,Intermediate,Quiz,"history, civilizations, warfare",Dr. M. Carter
+R0637,The Fundamentals of Robotics,Detailed study material with real-world examples.,Technology,Beginner,Article,"electric circuits, voltage, current",Dr. J. Wilson
+R0638,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Video,"databases, SQL, data storage",Ms. T. Lewis
+R0639,Database Design and Management,Fundamentals combined with hands-on project activities.,Science,Beginner,Video,"physics, quantum mechanics, particles",Dr. M. Carter
+R0640,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Others,Intermediate,Video,"machine learning, AI, neural networks",Dr. P. Adams
+R0641,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Others,Beginner,Article,"poetry, creative writing, storytelling",Dr. A. Smith
+R0642,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Others,Beginner,Quiz,"history, civilizations, warfare",Dr. M. Carter
+R0643,Database Design and Management,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Quiz,"physics, quantum mechanics, particles",Prof. B. Clark
+R0644,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Others,Intermediate,Article,"environment, climate change, sustainability",Dr. P. Adams
+R0645,Database Design and Management,Fundamentals combined with hands-on project activities.,Technology,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. K. Martinez
+R0646,World History Overview,Fundamentals combined with hands-on project activities.,Technology,Beginner,Article,"robotics, automation, sensors",Dr. A. Smith
+R0647,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Others,Advanced,Video,"physics, quantum mechanics, particles",Prof. B. Clark
+R0648,Database Design and Management,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Article,"biology, anatomy, cells",Dr. A. Smith
+R0649,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Humanities,Intermediate,Video,"poetry, creative writing, storytelling",Prof. B. Clark
+R0650,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Video,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0651,Creative Writing Workshop,An intermediate course focusing on core concepts.,Humanities,Beginner,Quiz,"electric circuits, voltage, current",Dr. E. Davis
+R0652,Database Design and Management,Detailed study material with real-world examples.,Humanities,Beginner,Article,"history, civilizations, warfare",Dr. J. Wilson
+R0653,Database Design and Management,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Article,"databases, SQL, data storage",Dr. A. Smith
+R0654,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Others,Beginner,Article,"environment, climate change, sustainability",Dr. P. Adams
+R0655,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Others,Intermediate,Article,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0656,Introduction to Machine Learning,Detailed study material with real-world examples.,Humanities,Beginner,Video,"ethics, philosophy, morality",Prof. B. Clark
+R0657,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Science,Intermediate,Article,"electric circuits, voltage, current",Dr. E. Davis
+R0658,Database Design and Management,An intermediate course focusing on core concepts.,Technology,Advanced,Article,"history, civilizations, warfare",Ms. R. Lee
+R0659,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. M. Carter
+R0660,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Science,Intermediate,Video,"machine learning, AI, neural networks",Dr. A. Smith
+R0661,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Article,"ethics, philosophy, morality",Dr. M. Carter
+R0662,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Science,Advanced,Video,"machine learning, AI, neural networks",Prof. L. Johnson
+R0663,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Others,Intermediate,Article,"databases, SQL, data storage",Ms. R. Lee
+R0664,Introduction to Machine Learning,An intermediate course focusing on core concepts.,Science,Intermediate,Quiz,"biology, anatomy, cells",Dr. P. Adams
+R0665,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Technology,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. P. Adams
+R0666,World History Overview,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Video,"ethics, philosophy, morality",Dr. A. Smith
+R0667,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Quiz,"machine learning, AI, neural networks",Dr. A. Smith
+R0668,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Quiz,"environment, climate change, sustainability",Ms. T. Lewis
+R0669,Climate Change and Sustainability,Detailed study material with real-world examples.,Technology,Intermediate,Video,"history, civilizations, warfare",Ms. R. Lee
+R0670,World History Overview,Well-structured learning with quizzes and assignments.,Science,Intermediate,Article,"biology, anatomy, cells",Dr. K. Martinez
+R0671,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Quiz,"biology, anatomy, cells",Dr. M. Carter
+R0672,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Article,"biology, anatomy, cells",Dr. J. Wilson
+R0673,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Video,"machine learning, AI, neural networks",Ms. T. Lewis
+R0674,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Quiz,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0675,World History Overview,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Article,"machine learning, AI, neural networks",Ms. R. Lee
+R0676,Introduction to Machine Learning,Detailed study material with real-world examples.,Others,Intermediate,Quiz,"environment, climate change, sustainability",Dr. K. Martinez
+R0677,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Science,Intermediate,Video,"electric circuits, voltage, current",Dr. E. Davis
+R0678,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Others,Beginner,Article,"databases, SQL, data storage",Dr. P. Adams
+R0679,Basics of Human Anatomy,Detailed study material with real-world examples.,Technology,Beginner,Video,"biology, anatomy, cells",Dr. A. Smith
+R0680,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Science,Intermediate,Article,"robotics, automation, sensors",Dr. M. Carter
+R0681,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Others,Intermediate,Quiz,"physics, quantum mechanics, particles",Dr. K. Martinez
+R0682,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Science,Advanced,Quiz,"environment, climate change, sustainability",Dr. P. Adams
+R0683,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Science,Advanced,Article,"robotics, automation, sensors",Dr. J. Wilson
+R0684,Creative Writing Workshop,Detailed study material with real-world examples.,Others,Intermediate,Quiz,"ethics, philosophy, morality",Dr. K. Martinez
+R0685,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Quiz,"poetry, creative writing, storytelling",Prof. B. Clark
+R0686,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Others,Intermediate,Article,"biology, anatomy, cells",Dr. A. Smith
+R0687,Creative Writing Workshop,Detailed study material with real-world examples.,Others,Advanced,Article,"environment, climate change, sustainability",Dr. J. Wilson
+R0688,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Quiz,"physics, quantum mechanics, particles",Dr. A. Smith
+R0689,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Science,Advanced,Article,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0690,World History Overview,An intermediate course focusing on core concepts.,Science,Advanced,Quiz,"electric circuits, voltage, current",Prof. B. Clark
+R0691,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Others,Intermediate,Quiz,"environment, climate change, sustainability",Ms. T. Lewis
+R0692,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Article,"biology, anatomy, cells",Prof. B. Clark
+R0693,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Science,Beginner,Video,"robotics, automation, sensors",Ms. R. Lee
+R0694,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Humanities,Beginner,Article,"databases, SQL, data storage",Prof. L. Johnson
+R0695,World History Overview,Detailed study material with real-world examples.,Science,Beginner,Article,"machine learning, AI, neural networks",Dr. M. Carter
+R0696,Database Design and Management,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Quiz,"history, civilizations, warfare",Dr. P. Adams
+R0697,Database Design and Management,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Quiz,"physics, quantum mechanics, particles",Dr. K. Martinez
+R0698,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Humanities,Intermediate,Video,"poetry, creative writing, storytelling",Dr. E. Davis
+R0699,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Video,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0700,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Science,Advanced,Article,"history, civilizations, warfare",Dr. A. Smith
+R0701,Introduction to Machine Learning,Detailed study material with real-world examples.,Science,Intermediate,Article,"machine learning, AI, neural networks",Prof. L. Johnson
+R0702,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Video,"poetry, creative writing, storytelling",Dr. E. Davis
+R0703,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Science,Advanced,Article,"ethics, philosophy, morality",Prof. B. Clark
+R0704,Introduction to Machine Learning,Detailed study material with real-world examples.,Science,Intermediate,Quiz,"ethics, philosophy, morality",Dr. P. Adams
+R0705,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Humanities,Beginner,Quiz,"biology, anatomy, cells",Dr. A. Smith
+R0706,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Others,Intermediate,Quiz,"history, civilizations, warfare",Ms. R. Lee
+R0707,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Science,Beginner,Article,"biology, anatomy, cells",Dr. A. Smith
+R0708,Electrical Engineering Principles,Detailed study material with real-world examples.,Others,Advanced,Article,"ethics, philosophy, morality",Ms. T. Lewis
+R0709,Climate Change and Sustainability,Detailed study material with real-world examples.,Others,Advanced,Article,"history, civilizations, warfare",Dr. A. Smith
+R0710,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Video,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0711,Database Design and Management,Detailed study material with real-world examples.,Others,Advanced,Quiz,"databases, SQL, data storage",Ms. R. Lee
+R0712,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Quiz,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0713,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Science,Beginner,Article,"electric circuits, voltage, current",Dr. E. Davis
+R0714,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Science,Advanced,Quiz,"robotics, automation, sensors",Dr. P. Adams
+R0715,Database Design and Management,An intermediate course focusing on core concepts.,Technology,Advanced,Article,"electric circuits, voltage, current",Dr. E. Davis
+R0716,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Technology,Intermediate,Quiz,"databases, SQL, data storage",Dr. E. Davis
+R0717,Introduction to Machine Learning,Detailed study material with real-world examples.,Technology,Beginner,Quiz,"databases, SQL, data storage",Dr. P. Adams
+R0718,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Article,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0719,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Others,Advanced,Quiz,"environment, climate change, sustainability",Dr. A. Smith
+R0720,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Others,Advanced,Quiz,"ethics, philosophy, morality",Prof. B. Clark
+R0721,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Science,Advanced,Quiz,"history, civilizations, warfare",Dr. J. Wilson
+R0722,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Article,"history, civilizations, warfare",Dr. E. Davis
+R0723,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Technology,Intermediate,Article,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0724,Creative Writing Workshop,An intermediate course focusing on core concepts.,Others,Beginner,Article,"robotics, automation, sensors",Ms. R. Lee
+R0725,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Quiz,"physics, quantum mechanics, particles",Dr. A. Smith
+R0726,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Technology,Beginner,Quiz,"biology, anatomy, cells",Prof. B. Clark
+R0727,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Others,Intermediate,Article,"biology, anatomy, cells",Dr. K. Martinez
+R0728,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Technology,Intermediate,Article,"history, civilizations, warfare",Ms. R. Lee
+R0729,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Article,"history, civilizations, warfare",Prof. L. Johnson
+R0730,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Science,Advanced,Quiz,"history, civilizations, warfare",Ms. R. Lee
+R0731,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Others,Advanced,Quiz,"environment, climate change, sustainability",Prof. B. Clark
+R0732,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Video,"databases, SQL, data storage",Dr. M. Carter
+R0733,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Technology,Beginner,Quiz,"databases, SQL, data storage",Prof. L. Johnson
+R0734,Creative Writing Workshop,An intermediate course focusing on core concepts.,Others,Advanced,Video,"poetry, creative writing, storytelling",Dr. M. Carter
+R0735,World History Overview,An intermediate course focusing on core concepts.,Others,Advanced,Quiz,"electric circuits, voltage, current",Prof. L. Johnson
+R0736,World History Overview,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Quiz,"biology, anatomy, cells",Dr. J. Wilson
+R0737,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Others,Beginner,Article,"biology, anatomy, cells",Prof. B. Clark
+R0738,Creative Writing Workshop,Detailed study material with real-world examples.,Science,Beginner,Video,"robotics, automation, sensors",Prof. B. Clark
+R0739,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Science,Beginner,Quiz,"ethics, philosophy, morality",Dr. J. Wilson
+R0740,Database Design and Management,Detailed study material with real-world examples.,Science,Advanced,Quiz,"biology, anatomy, cells",Dr. E. Davis
+R0741,Database Design and Management,A beginner-friendly overview with interactive sessions.,Others,Intermediate,Quiz,"environment, climate change, sustainability",Dr. A. Smith
+R0742,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Science,Advanced,Article,"biology, anatomy, cells",Dr. J. Wilson
+R0743,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Video,"biology, anatomy, cells",Dr. M. Carter
+R0744,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Technology,Beginner,Quiz,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0745,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Video,"robotics, automation, sensors",Dr. M. Carter
+R0746,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Others,Beginner,Video,"databases, SQL, data storage",Ms. R. Lee
+R0747,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Others,Beginner,Article,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0748,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Quiz,"machine learning, AI, neural networks",Dr. A. Smith
+R0749,World History Overview,Well-structured learning with quizzes and assignments.,Technology,Advanced,Video,"poetry, creative writing, storytelling",Dr. A. Smith
+R0750,World History Overview,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Video,"databases, SQL, data storage",Dr. K. Martinez
+R0751,Database Design and Management,Well-structured learning with quizzes and assignments.,Science,Beginner,Article,"biology, anatomy, cells",Ms. T. Lewis
+R0752,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Technology,Advanced,Video,"electric circuits, voltage, current",Dr. P. Adams
+R0753,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Science,Beginner,Article,"databases, SQL, data storage",Dr. J. Wilson
+R0754,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Humanities,Intermediate,Video,"biology, anatomy, cells",Ms. T. Lewis
+R0755,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Humanities,Advanced,Quiz,"environment, climate change, sustainability",Ms. T. Lewis
+R0756,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Quiz,"electric circuits, voltage, current",Dr. A. Smith
+R0757,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Technology,Advanced,Article,"databases, SQL, data storage",Dr. E. Davis
+R0758,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Technology,Beginner,Quiz,"history, civilizations, warfare",Dr. J. Wilson
+R0759,Database Design and Management,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Quiz,"electric circuits, voltage, current",Dr. A. Smith
+R0760,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Article,"physics, quantum mechanics, particles",Dr. A. Smith
+R0761,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Article,"biology, anatomy, cells",Dr. A. Smith
+R0762,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Science,Intermediate,Article,"robotics, automation, sensors",Ms. R. Lee
+R0763,Electrical Engineering Principles,Detailed study material with real-world examples.,Technology,Intermediate,Video,"history, civilizations, warfare",Prof. B. Clark
+R0764,Electrical Engineering Principles,Detailed study material with real-world examples.,Technology,Beginner,Quiz,"history, civilizations, warfare",Dr. E. Davis
+R0765,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Quiz,"environment, climate change, sustainability",Ms. T. Lewis
+R0766,The Fundamentals of Robotics,Detailed study material with real-world examples.,Others,Advanced,Article,"history, civilizations, warfare",Dr. E. Davis
+R0767,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Others,Beginner,Video,"electric circuits, voltage, current",Prof. B. Clark
+R0768,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Article,"robotics, automation, sensors",Dr. P. Adams
+R0769,Creative Writing Workshop,An intermediate course focusing on core concepts.,Humanities,Beginner,Quiz,"electric circuits, voltage, current",Dr. J. Wilson
+R0770,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Science,Intermediate,Video,"databases, SQL, data storage",Dr. A. Smith
+R0771,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Quiz,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0772,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Humanities,Intermediate,Quiz,"ethics, philosophy, morality",Dr. P. Adams
+R0773,World History Overview,Well-structured learning with quizzes and assignments.,Technology,Advanced,Quiz,"physics, quantum mechanics, particles",Ms. R. Lee
+R0774,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Others,Advanced,Article,"environment, climate change, sustainability",Ms. R. Lee
+R0775,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Video,"history, civilizations, warfare",Prof. L. Johnson
+R0776,Database Design and Management,An intermediate course focusing on core concepts.,Humanities,Intermediate,Article,"electric circuits, voltage, current",Ms. T. Lewis
+R0777,Basics of Human Anatomy,Detailed study material with real-world examples.,Humanities,Beginner,Video,"databases, SQL, data storage",Prof. B. Clark
+R0778,Introduction to Quantum Mechanics,An intermediate course focusing on core concepts.,Technology,Advanced,Article,"electric circuits, voltage, current",Prof. L. Johnson
+R0779,Electrical Engineering Principles,Detailed study material with real-world examples.,Humanities,Advanced,Article,"poetry, creative writing, storytelling",Dr. E. Davis
+R0780,World History Overview,Detailed study material with real-world examples.,Technology,Intermediate,Article,"robotics, automation, sensors",Dr. E. Davis
+R0781,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Science,Beginner,Quiz,"history, civilizations, warfare",Ms. R. Lee
+R0782,Basics of Human Anatomy,Detailed study material with real-world examples.,Technology,Advanced,Video,"databases, SQL, data storage",Dr. E. Davis
+R0783,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"electric circuits, voltage, current",Dr. K. Martinez
+R0784,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Technology,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. M. Carter
+R0785,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Science,Advanced,Quiz,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0786,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Others,Intermediate,Video,"robotics, automation, sensors",Dr. J. Wilson
+R0787,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Article,"poetry, creative writing, storytelling",Ms. T. Lewis
+R0788,World History Overview,An intermediate course focusing on core concepts.,Humanities,Advanced,Article,"electric circuits, voltage, current",Dr. E. Davis
+R0789,Basics of Human Anatomy,Detailed study material with real-world examples.,Humanities,Intermediate,Video,"databases, SQL, data storage",Dr. K. Martinez
+R0790,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Others,Beginner,Article,"history, civilizations, warfare",Prof. L. Johnson
+R0791,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Article,"machine learning, AI, neural networks",Ms. R. Lee
+R0792,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Science,Intermediate,Quiz,"history, civilizations, warfare",Dr. J. Wilson
+R0793,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Others,Beginner,Article,"physics, quantum mechanics, particles",Dr. E. Davis
+R0794,Creative Writing Workshop,An intermediate course focusing on core concepts.,Others,Beginner,Quiz,"biology, anatomy, cells",Prof. B. Clark
+R0795,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Quiz,"electric circuits, voltage, current",Dr. A. Smith
+R0796,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Others,Intermediate,Quiz,"biology, anatomy, cells",Dr. P. Adams
+R0797,World History Overview,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Article,"poetry, creative writing, storytelling",Ms. T. Lewis
+R0798,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Quiz,"databases, SQL, data storage",Dr. E. Davis
+R0799,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Others,Advanced,Quiz,"databases, SQL, data storage",Dr. P. Adams
+R0800,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Science,Beginner,Quiz,"ethics, philosophy, morality",Dr. P. Adams
+R0801,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Others,Beginner,Article,"physics, quantum mechanics, particles",Dr. K. Martinez
+R0802,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Others,Intermediate,Article,"biology, anatomy, cells",Dr. J. Wilson
+R0803,Creative Writing Workshop,Detailed study material with real-world examples.,Others,Advanced,Video,"databases, SQL, data storage",Ms. R. Lee
+R0804,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Humanities,Intermediate,Article,"ethics, philosophy, morality",Dr. M. Carter
+R0805,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Video,"robotics, automation, sensors",Ms. R. Lee
+R0806,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Article,"machine learning, AI, neural networks",Dr. M. Carter
+R0807,Introduction to Machine Learning,Detailed study material with real-world examples.,Others,Intermediate,Quiz,"ethics, philosophy, morality",Dr. K. Martinez
+R0808,Database Design and Management,An intermediate course focusing on core concepts.,Technology,Advanced,Video,"biology, anatomy, cells",Prof. L. Johnson
+R0809,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Others,Intermediate,Article,"physics, quantum mechanics, particles",Dr. J. Wilson
+R0810,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Video,"poetry, creative writing, storytelling",Dr. P. Adams
+R0811,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Article,"machine learning, AI, neural networks",Dr. M. Carter
+R0812,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Article,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0813,Database Design and Management,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Article,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0814,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Video,"biology, anatomy, cells",Dr. P. Adams
+R0815,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Quiz,"electric circuits, voltage, current",Dr. J. Wilson
+R0816,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Video,"databases, SQL, data storage",Dr. J. Wilson
+R0817,Database Design and Management,An intermediate course focusing on core concepts.,Humanities,Intermediate,Quiz,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0818,Database Design and Management,An intermediate course focusing on core concepts.,Science,Intermediate,Video,"biology, anatomy, cells",Dr. J. Wilson
+R0819,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Science,Intermediate,Video,"machine learning, AI, neural networks",Prof. B. Clark
+R0820,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Article,"databases, SQL, data storage",Ms. R. Lee
+R0821,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Quiz,"poetry, creative writing, storytelling",Prof. B. Clark
+R0822,World History Overview,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Article,"environment, climate change, sustainability",Ms. T. Lewis
+R0823,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Humanities,Advanced,Quiz,"biology, anatomy, cells",Dr. P. Adams
+R0824,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Others,Advanced,Article,"environment, climate change, sustainability",Dr. M. Carter
+R0825,Database Design and Management,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Quiz,"history, civilizations, warfare",Dr. A. Smith
+R0826,Basics of Human Anatomy,Detailed study material with real-world examples.,Others,Beginner,Article,"machine learning, AI, neural networks",Dr. J. Wilson
+R0827,Database Design and Management,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"biology, anatomy, cells",Dr. K. Martinez
+R0828,Climate Change and Sustainability,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Article,"robotics, automation, sensors",Prof. L. Johnson
+R0829,Introduction to Machine Learning,An intermediate course focusing on core concepts.,Humanities,Intermediate,Quiz,"databases, SQL, data storage",Dr. E. Davis
+R0830,World History Overview,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Article,"poetry, creative writing, storytelling",Prof. B. Clark
+R0831,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Article,"environment, climate change, sustainability",Dr. K. Martinez
+R0832,World History Overview,Detailed study material with real-world examples.,Humanities,Intermediate,Article,"electric circuits, voltage, current",Dr. E. Davis
+R0833,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Quiz,"environment, climate change, sustainability",Dr. K. Martinez
+R0834,Database Design and Management,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Article,"ethics, philosophy, morality",Dr. P. Adams
+R0835,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Technology,Advanced,Article,"ethics, philosophy, morality",Ms. R. Lee
+R0836,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Others,Beginner,Article,"environment, climate change, sustainability",Ms. R. Lee
+R0837,Basics of Human Anatomy,Detailed study material with real-world examples.,Humanities,Intermediate,Article,"environment, climate change, sustainability",Dr. P. Adams
+R0838,Database Design and Management,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"physics, quantum mechanics, particles",Ms. R. Lee
+R0839,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Article,"robotics, automation, sensors",Dr. A. Smith
+R0840,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Humanities,Beginner,Video,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0841,World History Overview,An intermediate course focusing on core concepts.,Science,Advanced,Quiz,"ethics, philosophy, morality",Dr. J. Wilson
+R0842,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Humanities,Advanced,Video,"ethics, philosophy, morality",Ms. R. Lee
+R0843,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Technology,Beginner,Article,"databases, SQL, data storage",Dr. K. Martinez
+R0844,World History Overview,A beginner-friendly overview with interactive sessions.,Humanities,Intermediate,Video,"databases, SQL, data storage",Ms. T. Lewis
+R0845,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Science,Intermediate,Quiz,"machine learning, AI, neural networks",Prof. L. Johnson
+R0846,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Video,"databases, SQL, data storage",Dr. M. Carter
+R0847,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Science,Beginner,Video,"robotics, automation, sensors",Dr. P. Adams
+R0848,Electrical Engineering Principles,Well-structured learning with quizzes and assignments.,Humanities,Advanced,Video,"environment, climate change, sustainability",Dr. P. Adams
+R0849,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Humanities,Intermediate,Article,"machine learning, AI, neural networks",Dr. M. Carter
+R0850,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Quiz,"poetry, creative writing, storytelling",Dr. J. Wilson
+R0851,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Science,Advanced,Video,"physics, quantum mechanics, particles",Ms. R. Lee
+R0852,Creative Writing Workshop,Detailed study material with real-world examples.,Humanities,Intermediate,Article,"biology, anatomy, cells",Dr. E. Davis
+R0853,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Quiz,"biology, anatomy, cells",Dr. K. Martinez
+R0854,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Article,"ethics, philosophy, morality",Dr. J. Wilson
+R0855,World History Overview,Fundamentals combined with hands-on project activities.,Technology,Beginner,Video,"databases, SQL, data storage",Dr. J. Wilson
+R0856,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Humanities,Intermediate,Video,"databases, SQL, data storage",Dr. J. Wilson
+R0857,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Humanities,Beginner,Video,"poetry, creative writing, storytelling",Dr. E. Davis
+R0858,Introduction to Machine Learning,Detailed study material with real-world examples.,Humanities,Advanced,Video,"history, civilizations, warfare",Dr. J. Wilson
+R0859,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Others,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. P. Adams
+R0860,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Article,"machine learning, AI, neural networks",Prof. L. Johnson
+R0861,World History Overview,An intermediate course focusing on core concepts.,Humanities,Advanced,Quiz,"biology, anatomy, cells",Ms. T. Lewis
+R0862,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Humanities,Intermediate,Article,"ethics, philosophy, morality",Dr. M. Carter
+R0863,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Others,Intermediate,Quiz,"ethics, philosophy, morality",Prof. L. Johnson
+R0864,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Others,Beginner,Article,"physics, quantum mechanics, particles",Dr. J. Wilson
+R0865,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Others,Intermediate,Article,"biology, anatomy, cells",Dr. A. Smith
+R0866,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Others,Beginner,Video,"biology, anatomy, cells",Dr. J. Wilson
+R0867,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Science,Beginner,Quiz,"databases, SQL, data storage",Dr. K. Martinez
+R0868,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Humanities,Intermediate,Quiz,"electric circuits, voltage, current",Dr. E. Davis
+R0869,The Fundamentals of Robotics,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Article,"poetry, creative writing, storytelling",Dr. A. Smith
+R0870,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Science,Advanced,Quiz,"robotics, automation, sensors",Dr. A. Smith
+R0871,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Others,Advanced,Quiz,"environment, climate change, sustainability",Dr. P. Adams
+R0872,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Humanities,Advanced,Article,"machine learning, AI, neural networks",Prof. L. Johnson
+R0873,World History Overview,Advanced discussions with practical problem-solving tasks.,Humanities,Advanced,Article,"robotics, automation, sensors",Ms. T. Lewis
+R0874,Philosophy and Ethics Introduction,An intermediate course focusing on core concepts.,Others,Intermediate,Article,"biology, anatomy, cells",Dr. K. Martinez
+R0875,Introduction to Machine Learning,An intermediate course focusing on core concepts.,Technology,Intermediate,Quiz,"robotics, automation, sensors",Dr. P. Adams
+R0876,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Science,Beginner,Quiz,"biology, anatomy, cells",Ms. R. Lee
+R0877,Database Design and Management,Fundamentals combined with hands-on project activities.,Others,Intermediate,Quiz,"electric circuits, voltage, current",Dr. A. Smith
+R0878,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Quiz,"environment, climate change, sustainability",Dr. A. Smith
+R0879,The Fundamentals of Robotics,Detailed study material with real-world examples.,Humanities,Advanced,Quiz,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0880,Database Design and Management,Well-structured learning with quizzes and assignments.,Others,Intermediate,Quiz,"biology, anatomy, cells",Dr. M. Carter
+R0881,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Others,Intermediate,Quiz,"ethics, philosophy, morality",Prof. L. Johnson
+R0882,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Science,Beginner,Article,"machine learning, AI, neural networks",Dr. K. Martinez
+R0883,Creative Writing Workshop,Detailed study material with real-world examples.,Technology,Intermediate,Article,"ethics, philosophy, morality",Dr. A. Smith
+R0884,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Quiz,"poetry, creative writing, storytelling",Dr. M. Carter
+R0885,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Others,Advanced,Quiz,"databases, SQL, data storage",Prof. L. Johnson
+R0886,Philosophy and Ethics Introduction,Detailed study material with real-world examples.,Science,Intermediate,Video,"databases, SQL, data storage",Prof. B. Clark
+R0887,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Science,Advanced,Quiz,"robotics, automation, sensors",Dr. J. Wilson
+R0888,Database Design and Management,Fundamentals combined with hands-on project activities.,Others,Advanced,Article,"poetry, creative writing, storytelling",Prof. B. Clark
+R0889,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Humanities,Beginner,Quiz,"databases, SQL, data storage",Ms. R. Lee
+R0890,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Humanities,Advanced,Article,"robotics, automation, sensors",Dr. K. Martinez
+R0891,Electrical Engineering Principles,Detailed study material with real-world examples.,Science,Beginner,Video,"biology, anatomy, cells",Ms. R. Lee
+R0892,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Quiz,"environment, climate change, sustainability",Dr. M. Carter
+R0893,Creative Writing Workshop,Detailed study material with real-world examples.,Humanities,Intermediate,Quiz,"electric circuits, voltage, current",Prof. B. Clark
+R0894,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Technology,Advanced,Quiz,"robotics, automation, sensors",Ms. R. Lee
+R0895,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Science,Advanced,Quiz,"databases, SQL, data storage",Dr. M. Carter
+R0896,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Technology,Beginner,Video,"physics, quantum mechanics, particles",Dr. J. Wilson
+R0897,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Humanities,Advanced,Quiz,"databases, SQL, data storage",Dr. J. Wilson
+R0898,Introduction to Quantum Mechanics,Detailed study material with real-world examples.,Humanities,Intermediate,Article,"ethics, philosophy, morality",Dr. J. Wilson
+R0899,The Fundamentals of Robotics,A beginner-friendly overview with interactive sessions.,Science,Beginner,Video,"databases, SQL, data storage",Dr. M. Carter
+R0900,Introduction to Machine Learning,Detailed study material with real-world examples.,Others,Beginner,Article,"biology, anatomy, cells",Prof. L. Johnson
+R0901,Database Design and Management,An intermediate course focusing on core concepts.,Science,Advanced,Quiz,"biology, anatomy, cells",Prof. L. Johnson
+R0902,World History Overview,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Video,"databases, SQL, data storage",Ms. T. Lewis
+R0903,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Science,Beginner,Article,"machine learning, AI, neural networks",Dr. J. Wilson
+R0904,World History Overview,An intermediate course focusing on core concepts.,Science,Intermediate,Article,"electric circuits, voltage, current",Prof. L. Johnson
+R0905,Electrical Engineering Principles,Detailed study material with real-world examples.,Others,Advanced,Video,"robotics, automation, sensors",Dr. A. Smith
+R0906,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Science,Advanced,Article,"databases, SQL, data storage",Dr. K. Martinez
+R0907,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Others,Intermediate,Video,"electric circuits, voltage, current",Prof. L. Johnson
+R0908,World History Overview,Fundamentals combined with hands-on project activities.,Others,Intermediate,Video,"environment, climate change, sustainability",Prof. B. Clark
+R0909,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Technology,Intermediate,Video,"robotics, automation, sensors",Dr. E. Davis
+R0910,Climate Change and Sustainability,Well-structured learning with quizzes and assignments.,Science,Intermediate,Article,"robotics, automation, sensors",Dr. A. Smith
+R0911,The Fundamentals of Robotics,Detailed study material with real-world examples.,Technology,Beginner,Article,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0912,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Article,"machine learning, AI, neural networks",Dr. K. Martinez
+R0913,Basics of Human Anatomy,An intermediate course focusing on core concepts.,Science,Advanced,Quiz,"ethics, philosophy, morality",Dr. J. Wilson
+R0914,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Technology,Beginner,Video,"biology, anatomy, cells",Dr. M. Carter
+R0915,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Science,Advanced,Quiz,"physics, quantum mechanics, particles",Dr. E. Davis
+R0916,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Science,Beginner,Quiz,"poetry, creative writing, storytelling",Dr. M. Carter
+R0917,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Article,"environment, climate change, sustainability",Ms. T. Lewis
+R0918,Creative Writing Workshop,Fundamentals combined with hands-on project activities.,Science,Advanced,Article,"poetry, creative writing, storytelling",Ms. T. Lewis
+R0919,Electrical Engineering Principles,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Article,"physics, quantum mechanics, particles",Dr. J. Wilson
+R0920,Database Design and Management,An intermediate course focusing on core concepts.,Science,Intermediate,Quiz,"biology, anatomy, cells",Ms. R. Lee
+R0921,Creative Writing Workshop,Well-structured learning with quizzes and assignments.,Humanities,Advanced,Video,"biology, anatomy, cells",Dr. P. Adams
+R0922,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Science,Beginner,Video,"poetry, creative writing, storytelling",Dr. P. Adams
+R0923,Database Design and Management,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Quiz,"environment, climate change, sustainability",Ms. T. Lewis
+R0924,Electrical Engineering Principles,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Video,"physics, quantum mechanics, particles",Dr. M. Carter
+R0925,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Others,Beginner,Video,"ethics, philosophy, morality",Dr. M. Carter
+R0926,Basics of Human Anatomy,Detailed study material with real-world examples.,Technology,Intermediate,Video,"poetry, creative writing, storytelling",Dr. P. Adams
+R0927,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Video,"history, civilizations, warfare",Dr. M. Carter
+R0928,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Video,"electric circuits, voltage, current",Ms. R. Lee
+R0929,Introduction to Quantum Mechanics,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Article,"history, civilizations, warfare",Prof. B. Clark
+R0930,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Video,"ethics, philosophy, morality",Dr. E. Davis
+R0931,Creative Writing Workshop,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Video,"machine learning, AI, neural networks",Dr. M. Carter
+R0932,Introduction to Machine Learning,Detailed study material with real-world examples.,Others,Intermediate,Quiz,"machine learning, AI, neural networks",Dr. J. Wilson
+R0933,World History Overview,Detailed study material with real-world examples.,Humanities,Beginner,Article,"robotics, automation, sensors",Ms. T. Lewis
+R0934,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Science,Advanced,Article,"robotics, automation, sensors",Dr. E. Davis
+R0935,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Others,Intermediate,Video,"machine learning, AI, neural networks",Dr. A. Smith
+R0936,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Video,"history, civilizations, warfare",Dr. P. Adams
+R0937,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Humanities,Advanced,Quiz,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0938,Philosophy and Ethics Introduction,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Article,"machine learning, AI, neural networks",Dr. J. Wilson
+R0939,Database Design and Management,Fundamentals combined with hands-on project activities.,Science,Beginner,Video,"robotics, automation, sensors",Dr. P. Adams
+R0940,World History Overview,A beginner-friendly overview with interactive sessions.,Technology,Intermediate,Article,"environment, climate change, sustainability",Dr. M. Carter
+R0941,Database Design and Management,Fundamentals combined with hands-on project activities.,Others,Beginner,Quiz,"robotics, automation, sensors",Dr. A. Smith
+R0942,World History Overview,Well-structured learning with quizzes and assignments.,Science,Intermediate,Video,"databases, SQL, data storage",Dr. K. Martinez
+R0943,Basics of Human Anatomy,Detailed study material with real-world examples.,Others,Intermediate,Video,"databases, SQL, data storage",Prof. L. Johnson
+R0944,Electrical Engineering Principles,Detailed study material with real-world examples.,Others,Beginner,Video,"databases, SQL, data storage",Dr. J. Wilson
+R0945,Database Design and Management,Fundamentals combined with hands-on project activities.,Science,Intermediate,Video,"environment, climate change, sustainability",Dr. E. Davis
+R0946,World History Overview,Advanced discussions with practical problem-solving tasks.,Science,Beginner,Article,"databases, SQL, data storage",Dr. K. Martinez
+R0947,Introduction to Machine Learning,An intermediate course focusing on core concepts.,Humanities,Beginner,Article,"physics, quantum mechanics, particles",Ms. T. Lewis
+R0948,Electrical Engineering Principles,Detailed study material with real-world examples.,Technology,Intermediate,Article,"history, civilizations, warfare",Ms. R. Lee
+R0949,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Technology,Advanced,Video,"ethics, philosophy, morality",Prof. L. Johnson
+R0950,World History Overview,A beginner-friendly overview with interactive sessions.,Humanities,Advanced,Quiz,"physics, quantum mechanics, particles",Dr. M. Carter
+R0951,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Others,Beginner,Quiz,"ethics, philosophy, morality",Ms. T. Lewis
+R0952,Basics of Human Anatomy,A beginner-friendly overview with interactive sessions.,Humanities,Advanced,Video,"poetry, creative writing, storytelling",Dr. M. Carter
+R0953,The Fundamentals of Robotics,Well-structured learning with quizzes and assignments.,Technology,Advanced,Article,"biology, anatomy, cells",Dr. K. Martinez
+R0954,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Article,"environment, climate change, sustainability",Dr. P. Adams
+R0955,Basics of Human Anatomy,Detailed study material with real-world examples.,Technology,Beginner,Video,"electric circuits, voltage, current",Prof. B. Clark
+R0956,Introduction to Quantum Mechanics,Advanced discussions with practical problem-solving tasks.,Science,Intermediate,Article,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0957,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Others,Advanced,Video,"biology, anatomy, cells",Dr. M. Carter
+R0958,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Technology,Advanced,Article,"robotics, automation, sensors",Prof. L. Johnson
+R0959,World History Overview,Advanced discussions with practical problem-solving tasks.,Science,Advanced,Quiz,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0960,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Humanities,Advanced,Article,"biology, anatomy, cells",Dr. A. Smith
+R0961,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Video,"machine learning, AI, neural networks",Dr. E. Davis
+R0962,Creative Writing Workshop,A beginner-friendly overview with interactive sessions.,Humanities,Beginner,Quiz,"electric circuits, voltage, current",Dr. E. Davis
+R0963,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Humanities,Intermediate,Quiz,"ethics, philosophy, morality",Dr. A. Smith
+R0964,Climate Change and Sustainability,An intermediate course focusing on core concepts.,Humanities,Beginner,Video,"electric circuits, voltage, current",Dr. K. Martinez
+R0965,Climate Change and Sustainability,Detailed study material with real-world examples.,Technology,Beginner,Article,"biology, anatomy, cells",Dr. M. Carter
+R0966,Basics of Human Anatomy,Well-structured learning with quizzes and assignments.,Science,Advanced,Video,"history, civilizations, warfare",Prof. B. Clark
+R0967,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Science,Intermediate,Video,"history, civilizations, warfare",Ms. T. Lewis
+R0968,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Science,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. A. Smith
+R0969,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Technology,Advanced,Video,"biology, anatomy, cells",Dr. K. Martinez
+R0970,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Science,Intermediate,Video,"physics, quantum mechanics, particles",Dr. J. Wilson
+R0971,Introduction to Quantum Mechanics,Fundamentals combined with hands-on project activities.,Technology,Intermediate,Quiz,"databases, SQL, data storage",Dr. P. Adams
+R0972,Introduction to Machine Learning,Well-structured learning with quizzes and assignments.,Others,Beginner,Article,"poetry, creative writing, storytelling",Ms. R. Lee
+R0973,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Others,Beginner,Quiz,"biology, anatomy, cells",Dr. J. Wilson
+R0974,Introduction to Machine Learning,Fundamentals combined with hands-on project activities.,Humanities,Intermediate,Quiz,"history, civilizations, warfare",Ms. T. Lewis
+R0975,World History Overview,An intermediate course focusing on core concepts.,Science,Advanced,Quiz,"physics, quantum mechanics, particles",Dr. E. Davis
+R0976,Introduction to Machine Learning,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Quiz,"physics, quantum mechanics, particles",Prof. B. Clark
+R0977,Philosophy and Ethics Introduction,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Video,"ethics, philosophy, morality",Dr. J. Wilson
+R0978,Database Design and Management,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Article,"environment, climate change, sustainability",Dr. K. Martinez
+R0979,Basics of Human Anatomy,Fundamentals combined with hands-on project activities.,Science,Advanced,Video,"poetry, creative writing, storytelling",Dr. K. Martinez
+R0980,World History Overview,Fundamentals combined with hands-on project activities.,Technology,Beginner,Article,"poetry, creative writing, storytelling",Prof. L. Johnson
+R0981,Introduction to Quantum Mechanics,Well-structured learning with quizzes and assignments.,Technology,Intermediate,Article,"history, civilizations, warfare",Ms. T. Lewis
+R0982,World History Overview,Detailed study material with real-world examples.,Humanities,Beginner,Video,"machine learning, AI, neural networks",Dr. A. Smith
+R0983,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Others,Intermediate,Article,"ethics, philosophy, morality",Dr. P. Adams
+R0984,Climate Change and Sustainability,A beginner-friendly overview with interactive sessions.,Technology,Beginner,Quiz,"history, civilizations, warfare",Dr. A. Smith
+R0985,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Science,Intermediate,Article,"environment, climate change, sustainability",Ms. R. Lee
+R0986,Creative Writing Workshop,Detailed study material with real-world examples.,Science,Intermediate,Video,"machine learning, AI, neural networks",Ms. R. Lee
+R0987,Basics of Human Anatomy,Detailed study material with real-world examples.,Others,Advanced,Quiz,"environment, climate change, sustainability",Dr. J. Wilson
+R0988,World History Overview,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Article,"machine learning, AI, neural networks",Dr. K. Martinez
+R0989,Philosophy and Ethics Introduction,A beginner-friendly overview with interactive sessions.,Science,Advanced,Video,"environment, climate change, sustainability",Prof. B. Clark
+R0990,The Fundamentals of Robotics,An intermediate course focusing on core concepts.,Science,Beginner,Quiz,"biology, anatomy, cells",Prof. B. Clark
+R0991,Electrical Engineering Principles,An intermediate course focusing on core concepts.,Others,Intermediate,Quiz,"ethics, philosophy, morality",Dr. A. Smith
+R0992,Introduction to Machine Learning,A beginner-friendly overview with interactive sessions.,Science,Intermediate,Video,"physics, quantum mechanics, particles",Prof. L. Johnson
+R0993,Philosophy and Ethics Introduction,Fundamentals combined with hands-on project activities.,Humanities,Beginner,Article,"environment, climate change, sustainability",Ms. T. Lewis
+R0994,Climate Change and Sustainability,Fundamentals combined with hands-on project activities.,Science,Advanced,Article,"environment, climate change, sustainability",Dr. J. Wilson
+R0995,World History Overview,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Article,"history, civilizations, warfare",Prof. B. Clark
+R0996,Basics of Human Anatomy,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Video,"electric circuits, voltage, current",Dr. J. Wilson
+R0997,World History Overview,Advanced discussions with practical problem-solving tasks.,Technology,Intermediate,Quiz,"robotics, automation, sensors",Prof. L. Johnson
+R0998,The Fundamentals of Robotics,Advanced discussions with practical problem-solving tasks.,Others,Beginner,Quiz,"biology, anatomy, cells",Ms. R. Lee
+R0999,Electrical Engineering Principles,A beginner-friendly overview with interactive sessions.,Others,Intermediate,Video,"biology, anatomy, cells",Dr. J. Wilson
+R1000,Introduction to Machine Learning,Detailed study material with real-world examples.,Science,Beginner,Quiz,"physics, quantum mechanics, particles",Dr. E. Davis
